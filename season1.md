@@ -15,15 +15,36 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 ### Featuring
 
 <p>
-- Iron Man (2008)<br />
-- Iron Man 2 (2010)<br />
-- Thor (2011)<br />
-- Captain America: The First Avenger (2011)<br />
-- The Avengers (2012)
+ - Iron Man (2008)<br />
+ - Iron Man 2 (2010)<br />
+ - Thor (2011)<br />
+ - Captain America: The First Avenger (2011)<br />
+ - The Avengers (2012)
 </p>
 <p style="clear: both;"></p>
-<details>
-  <summary><h2>Episode Descriptions</h2></summary>
-  | test | test2 |
-  | --- | --- |
-</details>
+
+* * *
+
+## Downloads
+
+| Resolution | Codec | Container | Bitrate | Audio |
+| :---: | :---: | :---: | :---: | :---: |
+| 3840 x 2160 | x265 (HEVC) | MKV | 24 Mbps | 5.1 DTS-HD MA <br /> 5.1 AC-3 |
+
+Magnet Link | Direct Download
+
+* * *
+
+| Resolution | Codec | Container | Bitrate | Audio |
+| :---: | :---: | :---: | :---: | :---: |
+| 3840 x 2160 | x265 (HEVC) | MKV | 12 Mbps | 5.1 AAC |
+
+Magnet Link | Direct Download
+
+* * *
+
+## Episode Descriptions
+
+| **No.** | **Title** | **Description** |
+| --- | :--- | :--- |
+| 1 | Recruitment | Playboy billionaire Tony Stark has his world turned upside down when he is kidnapped by terrorists. Meanwhile, in 1943, Steve Rogers volunteers to participate in an experimental program for the U.S. Army. |
