@@ -13,12 +13,10 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 * * *
 
 ### Featuring
-<p>
-* Iron Man (2008)
-* Iron Man 2 (2010)
-* Thor (2011)
-* Captain America: The First Avenger (2011)
-* The Avengers (2012)
-</p>
+> * Iron Man (2008)
+> * Iron Man 2 (2010)
+> * Thor (2011)
+> * Captain America: The First Avenger (2011)
+> * The Avengers (2012)
 
 <p style="clear: both;">hello world</p>
