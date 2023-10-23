@@ -2,124 +2,47 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-{{< video src="https://archive.org/download/Marvel-Unite-S1/Marvel%20Unite%20%282023%29%20-%20S01E01%20-%20Recruitment%20%281080p%202.5Mbps%20x264%20ducko%29.mp4" >}}
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+**Marvel: Unite** takes the MCU Infinity Saga films and splits them into a TV series format with hour-long episodes. Each episode has a multi-narrative structure featuring scenes from various different movies, all inter-cut together. The series roughly tries to mirror the theatrical experience, with the films placed in their intended release order with little content added or removed, just restructured to be more approachable and more "binge-able."
 
 
-### Definition lists can be used with HTML syntax.
+<p align="center">
+  <img src="assets/images/seriesPoster_450px.jpg" />
+</p>
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### Intentions
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+**My main goal is to make the MCU _more_ approachable, not _less_.** All of the movies are neatly interwoven in hour-long chunks. Nobody has to dedicate an entire evening solely to watching weaker MCU films like Thor: The Dark World. Instead, Inter-cutting between the various narratives allows them each to breathe and keeps everything fresh.
 
-```
-The final element.
-```
+Plot points are revealed in more or less the way they were meant to be revealed, with the films roughly following release order. Many MCU edits I've found are in chronological order, which die-hard fans may find interesting, but I don't think it's the overall best way to watch it. Why watch 2 straight hours of Captain Marvel at the very beginning when she isn't relevant again until 50 hours later in Endgame?
+
+There are also very few deleted scenes or extras added. My intention is less to expand on or to fix the MCU, but rather to just reformat the content everyone already loves. Plotlines are occasionally shifted for pacing or to make the episodic format more cohesive.
+
+A lot of attention was given towards giving each episode a cohesive arc with proper pacing. I also focused a lot on high-quality sourcing and a proper rendering pipeline, using the UHD Blu-rays to create a 4K HDR version with lossless 5.1 audio.
+
+### Version Guide
+
+| Resolution | Bitrate | Codec | Audio    | Quality | Description                                               |
+| :---: | :---: | :---: | :---: | :---: | :----------------------------------------------------------- |
+| 2160p | 24 Mbps | x265 MKV | 5.1 DTS-HD MA<br />5.1 AC3 | Excellent | Best for home theater setups and where file size isn't a concern. Lossless audio has higher dynamic range for high-end audio setups. |
+| 2160p | 12 Mbps | x265 MKV | 5.1 AAC | Great | Quality is only slightly degraded, yet has less than half the file-size. |
+| 1080p | 6 Mbps | x265 MKV | 5.1 AAC | Great | Recommended 1080p version if your device supports x265/HEVC playback. |
+| 1080p | 8 Mbps | x264 MP4 | 5.1 AC3<br />2.0 AAC | Good | Recommended 1080p version for ultimate compatibility. |
+| 1080p | 2.5 Mbps | x264 MP4 | 2.0 AAC | Decent | This version is created primarily for streaming in-browser. |
+
+### How to Watch
+
+The lowest bitrate version of Marvel: Unite can be streamed through archive.org, and higher quality versions are available for torrent. Use the links on the left sidebar for either.
+
+### Special Thanks
+My wife <3
+
+#### IFDB
+ArtisDead
+INIGHTMARES
+NOTFLIX
+lantern51
+
+#### Reddit
+u/colddeaddrummer
