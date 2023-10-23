@@ -5,7 +5,7 @@ permalink: /season-1/
 ---
 
 <p>
-<img src="assets/images/seasonOne_450px.jpg" align="left" />
+<img src="../assets/images/seasonOne_450px.jpg" align="left" />
   
 # Season One
 
