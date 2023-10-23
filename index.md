@@ -20,8 +20,8 @@ A lot of attention was given towards giving each episode a cohesive arc with pro
 
 ## Version Guide
 
-| Resolution | Bitrate | Codec | Audio    | Quality | Description                                               |
-| :---: | :---: | :---: | :---: | :---: | :----------------------------------------------------------- |
+| **Resolution** | **Bitrate** | **Codec** | **Audio**    | **Quality** | **Description** |
+| :---: | :---: | :---: | :---: | :---: | :--- |
 | 2160p | 24 Mbps | x265 MKV | 5.1 DTS-HD MA<br />5.1 AC3 | Excellent | Best for home theater setups and where file size isn't a concern. Lossless audio has higher dynamic range for high-end audio setups. |
 | 2160p | 12 Mbps | x265 MKV | 5.1 AAC | Great | Quality is only slightly degraded, yet has less than half the file-size. |
 | 1080p | 6 Mbps | x265 MKV | 5.1 AAC | Great | Recommended 1080p version if your device supports x265/HEVC playback. |
@@ -30,16 +30,18 @@ A lot of attention was given towards giving each episode a cohesive arc with pro
 
 ## How to Watch
 
-The lowest bitrate version of Marvel: Unite can be streamed through archive.org, and higher quality versions are available for torrent. Use the links on the left sidebar for either.
+The lowest bitrate version of Marvel: Unite can be streamed through archive.org, and higher quality versions are available by torrent.
+
+**Use the season links on the left sidebar for either option.**
 
 ## Special Thanks
 * My wife <3
 
-#### IFDB
+##### IFDB
 * ArtisDead
 * INIGHTMARES
 * NOTFLIX
 * lantern51
 
-#### Reddit
+##### Reddit
 * u/colddeaddrummer
