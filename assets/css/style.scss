@@ -9,7 +9,11 @@ iframe {
   aspect-ratio: 1.5;
 }
 
-header {
+@font-face {
   font-family: "TacticSans-Reg";
   src: url("assets/fonts/TacticSans-Reg.otf");
+}
+
+header {
+  font-family: "TacticSans-Reg";
 }
