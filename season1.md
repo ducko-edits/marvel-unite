@@ -27,19 +27,22 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 
 ## Downloads
 
-| Resolution | Codec | Container | Bitrate | Audio |
+> | Resolution | Codec | Container | Bitrate | Audio |
 | :---: | :---: | :---: | :---: | :---: |
 | 3840 x 2160 | x265 (HEVC) | MKV | 24 Mbps | 5.1 DTS-HD MA <br /> 5.1 AC-3 |
 
-Magnet Link | Direct Download
+*Excellent quality. Best for home theater setups and when file size isn't a concern. Lossless audio also has higher dynamic range for high-end audio setups.*
+
+
+Magnet Link -- Direct Download
 
 * * *
 
-| Resolution | Codec | Container | Bitrate | Audio |
-| :---: | :---: | :---: | :---: | :---: |
-| 3840 x 2160 | x265 (HEVC) | MKV | 12 Mbps | 5.1 AAC |
+> | Resolution | Codec | Container | Bitrate | Audio |
+> | :---: | :---: | :---: | :---: | :---: |
+> | 3840 x 2160 | x265 (HEVC) | MKV | 12 Mbps | 5.1 AAC |
 
-Magnet Link | Direct Download
+Magnet Link -- Direct Download
 
 * * *
 
