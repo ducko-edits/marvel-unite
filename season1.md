@@ -12,14 +12,6 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 
 * * *
 
-| **Featuring** |
-| :--- |
-| Iron Man |
-| Iron Man 2 |
-| Thor |
-| Captain America: The First Avenger |
-| The Avengers |
-
 ### Featuring
 
 <p>
@@ -30,4 +22,6 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 - The Avengers (2012)
 </p>
 
-<p style="clear: both;">hello world</p>
+<p style="clear: both;"></p>
+
+Hello world
