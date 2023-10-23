@@ -9,7 +9,28 @@ iframe {
   aspect-ratio: 1.5;
 }
 
-header {
+@font-face {
   font-family: "TacticSans-Reg";
   src: url('assets/fonts/TacticSans-Reg.otf');
+}
+
+@font-face {
+  font-family: "kenyan coffee rg";
+  src: url('assets/fonts/kenyan coffee rg.otf');
+}
+
+header {
+  font-family: "TacticSans-Reg";
+}
+
+header h1 {
+  font-family: "kenyan coffee rg";
+}
+
+#main-content h1, h2 {
+  font-family: "TacticSans-Reg";
+}
+
+#main-content h3, h4, h5 {
+  font-family: "kenyan coffee rg";
 }
