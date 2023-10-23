@@ -8,7 +8,7 @@ layout: default
 
 <img src="assets/images/seriesPoster_450px.jpg" align="right" />
   
-### Intentions
+## Intentions
 
 **My main goal is to make the MCU _more_ approachable, not _less_.** All of the movies are neatly interwoven in hour-long chunks. Nobody has to dedicate an entire evening solely to watching weaker MCU films like Thor: The Dark World. Instead, Inter-cutting between the various narratives allows them each to breathe and keeps everything fresh.
 
@@ -18,7 +18,7 @@ There are also very few deleted scenes or extras added. My intention is less to 
 
 A lot of attention was given towards giving each episode a cohesive arc with proper pacing. I also focused a lot on high-quality sourcing and a proper rendering pipeline, using the UHD Blu-rays to create a 4K HDR version with lossless 5.1 audio.
 
-### Version Guide
+## Version Guide
 
 | Resolution | Bitrate | Codec | Audio    | Quality | Description                                               |
 | :---: | :---: | :---: | :---: | :---: | :----------------------------------------------------------- |
@@ -28,18 +28,18 @@ A lot of attention was given towards giving each episode a cohesive arc with pro
 | 1080p | 8 Mbps | x264 MP4 | 5.1 AC3<br />2.0 AAC | Good | Recommended 1080p version for ultimate compatibility. |
 | 1080p | 2.5 Mbps | x264 MP4 | 2.0 AAC | Decent | This version is created primarily for streaming in-browser. |
 
-### How to Watch
+## How to Watch
 
 The lowest bitrate version of Marvel: Unite can be streamed through archive.org, and higher quality versions are available for torrent. Use the links on the left sidebar for either.
 
-### Special Thanks
-My wife <3
+## Special Thanks
+* My wife <3
 
 #### IFDB
-ArtisDead
-INIGHTMARES
-NOTFLIX
-lantern51
+* ArtisDead
+* INIGHTMARES
+* NOTFLIX
+* lantern51
 
 #### Reddit
-u/colddeaddrummer
+* u/colddeaddrummer
