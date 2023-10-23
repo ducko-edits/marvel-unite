@@ -4,9 +4,9 @@ title: Season 1
 permalink: /season-1/
 ---
 
-<div>
-<img src="../assets/images/seasonOne_450px.jpg" align="left" class="posterpadded" />
-  
+| <img src="../assets/images/seasonOne_450px.jpg" align="left" class="posterpadded" /> <h1>Season One</h1> <br /> Hello! |
+| --- |
+
 # Season One
 
 > Explore the backstories of Iron Man, Captain America, and Thor as they grow towards becoming central pieces of the Avengers Initiative.
@@ -19,7 +19,6 @@ permalink: /season-1/
 * Thor (2011)
 * Captain America: The First Avenger (2011)
 * The Avengers (2012)
-</div>
 
 <a class="button" href="https://www.google.com">Test text</a>
 
