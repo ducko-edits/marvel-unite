@@ -6,11 +6,8 @@ layout: default
 
 **Marvel: Unite** takes the MCU Infinity Saga films and splits them into a TV series format with hour-long episodes. Each episode has a multi-narrative structure featuring scenes from various different movies, all inter-cut together. The series roughly tries to mirror the theatrical experience, with the films placed in their intended release order with little content added or removed, just restructured to be more approachable and more "binge-able."
 
-
-<p align="center">
-  <img src="assets/images/seriesPoster_450px.jpg" />
-</p>
-
+<img src="assets/images/seriesPoster_450px.jpg" align="right" />
+  
 ### Intentions
 
 **My main goal is to make the MCU _more_ approachable, not _less_.** All of the movies are neatly interwoven in hour-long chunks. Nobody has to dedicate an entire evening solely to watching weaker MCU films like Thor: The Dark World. Instead, Inter-cutting between the various narratives allows them each to breathe and keeps everything fresh.
