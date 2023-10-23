@@ -32,11 +32,11 @@ header h1 {
 }
 
 #main-content h2 {
-  font-family: "KenyanCoffee";
+  font-family: "TacticSans";
 }
 
 #main-content h3 {
-  font-family: "TacticSans";
+  font-family: "KenyanCoffee";
 }
 
 #main-content h4 {
@@ -46,3 +46,14 @@ header h1 {
 #main-content h5 {
   font-family: "TacticSans";
 }
+
+#main-content h6 {
+  font-family: "TacticSans";
+}
+
+#main-content h1:before { content:none; }
+#main-content h2:before { content:none; }
+#main-content h3:before { content:none; }
+#main-content h4:before { content:none; }
+#main-content h5:before { content:none; }
+#main-content h6:before { content:none; }
