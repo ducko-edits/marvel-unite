@@ -2,11 +2,12 @@
 layout: default
 ---
 
+<img src="assets/images/seriesPoster_450px.jpg" align="right" />
+
 # About
 
 **Marvel: Unite** takes the MCU Infinity Saga films and splits them into a TV series format with hour-long episodes. Each episode has a multi-narrative structure featuring scenes from various different movies, all inter-cut together. The series roughly tries to mirror the theatrical experience, with the films placed in their intended release order with little content added or removed, just restructured to be more approachable and more "binge-able."
 
-<img src="assets/images/seriesPoster_450px.jpg" align="right" />
   
 ## Intentions
 
@@ -18,6 +19,7 @@ There are also very few deleted scenes or extras added. My intention is less to 
 
 A lot of attention was given towards giving each episode a cohesive arc with proper pacing. I also focused a lot on high-quality sourcing and a proper rendering pipeline, using the UHD Blu-rays to create a 4K HDR version with lossless 5.1 audio.
 
+
 ## Version Guide
 
 | **Resolution** | **Bitrate** | **Codec** | **Audio**    | **Quality** | **Description** |
@@ -28,20 +30,22 @@ A lot of attention was given towards giving each episode a cohesive arc with pro
 | 1080p | 8 Mbps | x264 MP4 | 5.1 AC3<br />2.0 AAC | Good | Recommended 1080p version for ultimate compatibility. |
 | 1080p | 2.5 Mbps | x264 MP4 | 2.0 AAC | Decent | This version is created primarily for streaming in-browser. |
 
+
 ## How to Watch
 
 The lowest bitrate version of Marvel: Unite can be streamed through archive.org, and higher quality versions are available by torrent.
 
 **Use the season links on the left sidebar for either option.**
 
+
 ## Special Thanks
 * My wife <3
 
-##### IFDB
+###### IFDB
 * ArtisDead
 * INIGHTMARES
 * NOTFLIX
 * lantern51
 
-##### Reddit
+###### Reddit
 * u/colddeaddrummer
