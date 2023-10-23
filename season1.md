@@ -4,6 +4,7 @@ title: Season 1
 permalink: /season-1/
 ---
 
+<div>
 <img src="../assets/images/seasonOne_450px.jpg" align="left" class="posterpadded" />
   
 # Season One
@@ -18,5 +19,6 @@ permalink: /season-1/
 * Thor (2011)
 * Captain America: The First Avenger (2011)
 * The Avengers (2012)
+</div>
 
 <a class="button" href="https://www.google.com">Test text</a>
