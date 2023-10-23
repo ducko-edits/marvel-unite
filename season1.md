@@ -4,8 +4,13 @@ title: Season 1
 permalink: /season-1/
 ---
 
-| <img src="../assets/images/seasonOne_450px.jpg" align="left" class="posterpadded" /> <h1>Season One</h1> <br /> Hello! |
+| <img src="../assets/images/seasonOne_450px.jpg" /> |
 | --- |
+
+| <img src="../assets/images/seasonOne_450px.jpg" /> | test |
+| --- | --- |
+
+<img src="../assets/images/seasonOne_450px.jpg" align="left" class="posterpadded" />
 
 # Season One
 
@@ -19,8 +24,6 @@ permalink: /season-1/
 * Thor (2011)
 * Captain America: The First Avenger (2011)
 * The Avengers (2012)
-
-<a class="button" href="https://www.google.com">Test text</a>
 
 more text
 
