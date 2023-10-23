@@ -10,27 +10,19 @@ iframe {
 }
 
 @font-face {
-  font-family: 'TacticSans-Reg';
+  font-family: 'TacticSans';
   src: url('assets/fonts/TacticSans-Reg.otf');
 }
 
 @font-face {
-  font-family: 'kenyan coffee rg';
+  font-family: 'KenyanCoffee';
   src: url('assets/fonts/kenyan coffee rg.otf');
 }
 
 header {
-  font-family: 'TacticSans-Reg';
+  font-family: 'TacticSans';
 }
 
 header h1 {
-  font-family: 'kenyan coffee rg';
-}
-
-#main-content h1, h2 {
-  font-family: 'TacticSans-Reg';
-}
-
-#main-content h3, h4, h5 {
-  font-family: 'kenyan coffee rg';
+  font-family: 'KenyanCoffee';
 }
