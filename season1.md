@@ -4,11 +4,11 @@ title: Season 1
 permalink: /season-1/
 ---
 
-<img src="../assets/images/seasonOne_450px.jpg" align="left" />
+<img src="../assets/images/seasonOne_450px.jpg" align="left" class="posterpadded" />
   
 # Season One
 
-Explore the backstories of Iron Man, Captain America, and Thor as they grow towards becoming central pieces of the Avengers Initiative.
+> Explore the backstories of Iron Man, Captain America, and Thor as they grow towards becoming central pieces of the Avengers Initiative.
 
 * * *
 
