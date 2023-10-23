@@ -4,13 +4,7 @@ title: Season 1
 permalink: /season-1/
 ---
 
-| <img src="../assets/images/seasonOne_450px.jpg" /> |
-| --- |
-
-| <img src="../assets/images/seasonOne_450px.jpg" /> | test |
-| --- | --- |
-
-<img src="../assets/images/seasonOne_450px.jpg" align="left" class="posterpadded" />
+<img src="../assets/images/seasonOne_450px.jpg" style="float: left; padding: 10px;" />
 
 # Season One
 
@@ -27,4 +21,4 @@ permalink: /season-1/
 
 more text
 
-hello world
+<p style="float: clear;">hello world</p>
