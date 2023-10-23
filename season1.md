@@ -28,9 +28,9 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 ## Downloads
 
 ### 2160p 24Mbps x265
-> | **Resolution** | **Codec** | **Container** | **Bitrate** | **Audio** |
-> | :---: | :---: | :---: | :---: | :---: |
-> | 3840 x 2160 | x265 (HEVC) | MKV | 24 Mbps | 5.1 DTS-HD MA <br /> 5.1 AC-3 |
+> | **File Size ** | **Resolution** | **Codec** | **Container** | **Bitrate** | **Audio** |
+> | :---: | :---: | :---: | :---: | :---: | :---: |
+> | xx GB | 3840 x 2160 | x265 (HEVC) | MKV | 24 Mbps | 5.1 DTS-HD MA <br /> 5.1 AC-3 |
 > 
 > *Excellent quality. Best for home theater setups and when file size isn't a concern. Lossless audio also has higher dynamic range for high-end audio setups.*
 > 
@@ -38,13 +38,13 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 
 ### 2160p 12Mbps x265
 
-> | **Resolution** | **Codec** | **Container** | **Bitrate** | **Audio** |
-> | :---: | :---: | :---: | :---: | :---: |
-> | 3840 x 2160 | x265 (HEVC) | MKV | 12 Mbps | 5.1 AAC |
->
 > *Great quality. Very small drop in quality for less than half the file size.*
-> 
-> Magnet Link -- Direct Download
+>
+> | **File Size** | **Resolution** | **Codec** | **Container** | **Bitrate** | **Audio** |
+> | :---: | :---: | :---: | :---: | :---: | :---: |
+> | xx GB | 3840 x 2160 | x265 (HEVC) | MKV | 12 Mbps | 5.1 AAC |
+>
+ Magnet Link -- Direct Download
 
 * * *
 
