@@ -21,13 +21,13 @@
 title: Marvel Unite (Unofficial Fan Edit)
 email: ducko-edits@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
-  "Marvel: Unite is an unofficial fan edit that takes the MCU Infinity Saga films and splits them into a TV series format with hour-long episodes. Each episode has a multi-narrative structure featuring scenes from various different movies, all inter-cut together. The series roughly tries to mirror the theatrical experience, with the films placed in their intended release order with little content added or removed, just restructured to be more approachable and more \u0022binge-able.\u0022"
+  Marvel\u0003A Unite is an unofficial fan edit that takes the MCU Infinity Saga films and splits them into a TV series format with hour-long episodes. Each episode has a multi-narrative structure featuring scenes from various different movies, all inter-cut together. The series roughly tries to mirror the theatrical experience, with the films placed in their intended release order with little content added or removed, just restructured to be more approachable and more \u0022binge-able.\u0022
 baseurl: "/marvel-unite" # the subpath of your site, e.g. /blog
 url: "https://ducko-edits.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ducko-edits
 
 # Build settings
-remote-theme: pages-themes/architect@v0.2.0
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-feed
 
