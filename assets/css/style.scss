@@ -57,3 +57,7 @@ header h1 {
 #main-content h4:before { content:none; }
 #main-content h5:before { content:none; }
 #main-content h6:before { content:none; }
+
+td, th {
+  padding: 10px;
+}
