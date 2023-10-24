@@ -31,10 +31,10 @@ The lowest bitrate version of Marvel: Unite can be streamed through archive.org,
 
 | *Season 1* | *Season 2* | *Season 3* | *Season 4* | *Season 5* |
 | :---: | :---: | :---: | :---: | :---: |
-| Iron Man | Captain America:<br /> The Winter Soldier | Guardians of the Galaxy | Thor: Ragnarok | Avengers: Infinity War |
-| Captain America:<br /> The First Avenger | Iron Man 3 | Captain America:<br /> Civil War | Black Panther | Ant-Man and the Wasp |
-| Thor | Thor: The Dark World | Ant-Man | Guardians of the Galaxy<br /> Vol. 2 | Captain Marvel |
-| Iron Man 2 | Avengers:<br /> Age of Ultron | Doctor Strange | Spider-Man:<br /> Homecoming | Avengers: Endgame |
+| Iron Man | Captain America: The Winter Soldier | Guardians of the Galaxy | Thor: Ragnarok | Avengers: Infinity War |
+| Captain America: The First Avenger | Iron Man 3 | Captain America: Civil War | Black Panther | Ant-Man and the Wasp |
+| Thor | Thor: The Dark World | Ant-Man | Guardians of the Galaxy Vol. 2 | Captain Marvel |
+| Iron Man 2 | Avengers: Age of Ultron | Doctor Strange | Spider-Man: Homecoming | Avengers: Endgame |
 | The Avengers | | | Black Widow | |
 
 
