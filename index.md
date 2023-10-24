@@ -20,22 +20,22 @@ There are also very few deleted scenes or extras added. My intention is less to 
 A lot of attention was given towards giving each episode a cohesive arc with proper pacing. I also focused a lot on high-quality sourcing and a proper rendering pipeline, using the UHD Blu-rays to create a 4K HDR version with lossless 5.1 audio.
 
 
-## Version Guide
-
-| **Resolution** | **Bitrate** | **Codec** | **Audio**    | **Quality** | **Description** |
-| :---: | :---: | :---: | :---: | :---: | :--- |
-| 2160p | 24 Mbps | x265 MKV | 5.1 DTS-HD MA<br />5.1 AC3 | Excellent | Best for home theater setups and where file size isn't a concern. Lossless audio has higher dynamic range for high-end audio setups. |
-| 2160p | 12 Mbps | x265 MKV | 5.1 AAC | Great | Quality is only slightly degraded, yet has less than half the file-size. |
-| 1080p | 6 Mbps | x265 MKV | 5.1 AAC | Great | Recommended 1080p version if your device supports x265/HEVC playback. |
-| 1080p | 8 Mbps | x264 MP4 | 5.1 AC3<br />2.0 AAC | Good | Recommended 1080p version for ultimate compatibility. |
-| 1080p | 2.5 Mbps | x264 MP4 | 2.0 AAC | Decent | This version is created primarily for streaming in-browser. |
-
-
 ## How to Watch
 
 The lowest bitrate version of Marvel: Unite can be streamed through archive.org, and higher quality versions are available by torrent.
 
 **Use the season links on the left sidebar for either option.**
+
+
+## Series Outline
+
+| *Season 1* | *Season 2* | *Season 3* | *Season 4* | *Season 5* |
+| :---: | :---: | :---: | :---: | :---: |
+| Iron Man | Captain America:<br /> The Winter Soldier | Guardians of the Galaxy | Thor: Ragnarok | Avengers: Infinity War |
+| Captain America:<br /> The First Avenger | Iron Man 3 | Captain America:<br /> Civil War | Black Panther | Ant-Man and the Wasp |
+| Thor | Thor: The Dark World | Ant-Man | Guardians of the Galaxy<br /> Vol. 2 | Captain Marvel |
+| Iron Man 2 | Avengers:<br /> Age of Ultron | Doctor Strange | Spider-Man:<br /> Homecoming | Avengers: Endgame |
+| The Avengers | | | Black Widow | |
 
 
 ## Special Thanks
