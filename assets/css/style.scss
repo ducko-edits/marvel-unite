@@ -9,6 +9,12 @@ iframe {
   aspect-ratio: 1.5;
 }
 
+#season-container {
+  max-width: 940;
+  margin-bottom: 30px;
+  box-shadow: 0px 0px 20px #000;
+}
+
 @font-face {
   font-family: "TacticSans";
   src: url("../fonts/TacticSans-Reg.otf");
@@ -81,7 +87,7 @@ header h2 {
 
 table {
   border: 1px solid #797775;
-  background-color: #33312F;
+  background-color: #3F3D3B;
 }
 
 th {
@@ -92,8 +98,12 @@ td, th {
   padding: 10px;
 }
 
+td {
+  border: 1px solid #797775;
+}
+
 tbody tr:nth-child(odd) {
-  background-color: #3F3D3B;
+  background-color: #33312F;
 }
 
 #content-wrapper {
@@ -102,4 +112,16 @@ tbody tr:nth-child(odd) {
 
 aside#sidebar {
   background: transparent url(../images/sidebar.jpg) 0 0 no-repeat;
+}
+
+aside#sidebar h2 {
+  font-family: "TacticSans";
+}
+
+aside#sidebar h3 {
+  font-family: "TacticSans";
+}
+
+aside#sidebar h4:before {
+  content:none;
 }
