@@ -107,3 +107,15 @@ tbody tr:nth-child(odd) {
 aside#sidebar {
   background: transparent url(../images/sidebar.jpg) 0 0 no-repeat;
 }
+
+aside#sidebar h2 {
+  font-family: "TacticSans";
+}
+
+aside#sidebar h3 {
+  font-family: "TacticSans";
+}
+
+aside#sidebar h4:before {
+  content:none;
+}
