@@ -4,7 +4,11 @@ layout: default
 
 # About
 
-<a href="assets/images/seriesPoster_2550px.jpg"><img src="assets/images/seriesPoster_450px.jpg" align="right" style="margin: 0px 0px 0px 10px;"/></a>
+<div class="image-with-text-right">
+  <img src="assets/images/seriesPoster_450px.jpg" />
+  <br />
+  [<i><a href="assets/images/seriesPoster_2550px.jpg">high resolution</a></i>]
+</div>
 
 **Marvel: Unite** takes the MCU Infinity Saga films and splits them into a TV series format with hour-long episodes. Each episode has a multi-narrative structure featuring scenes from various different movies, all inter-cut together. The series roughly tries to mirror the theatrical experience, with the films placed in their intended release order with little content added or removed, just restructured to be more approachable and more "binge-able."
 
