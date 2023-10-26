@@ -112,6 +112,7 @@ tbody tr:nth-child(odd) {
 
 aside#sidebar {
   background: transparent url(../images/sidebar.jpg) 0 0 no-repeat;
+  min-height: 100px;
 }
 
 aside#sidebar h2 {
