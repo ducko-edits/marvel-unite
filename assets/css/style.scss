@@ -92,6 +92,10 @@ td, th {
   padding: 10px;
 }
 
+td {
+  border: 1px solid #797775;
+}
+
 tbody tr:nth-child(odd) {
   background-color: #33312F;
 }
