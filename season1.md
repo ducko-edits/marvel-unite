@@ -4,7 +4,11 @@ title: Season 1
 permalink: /season-1/
 ---
 
-<a href="../assets/images/seasonOne_2550px.jpg"><img src="../assets/images/seasonOne_450px.jpg" style="float: left; padding: 0px 30px 0px 0px;" /></a>
+<div class="image-with-text-left" style="padding: 0px 30px 0px 0px">
+ <img src="../assets/images/seasonOne_450px.jpg" />
+ <br />
+ [<i><a href="../assets/images/seasonOne_2550px.jpg">high resolution</a></i>]
+</div>
 
 # Season One
 
