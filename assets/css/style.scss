@@ -24,9 +24,14 @@ body {
   background: #201F1E url(../images/body.jpg) 0 0 repeat;
 }
 
+a {
+  color: #dd1d1d;
+}
+
 header {
   font-family: "TacticSans";
   background: #ED1B24 url(../images/header.jpg) 0 0 repeat-x;
+  border-bottom: solid 1px #fff;
 }
 
 header h1 {
@@ -74,10 +79,23 @@ header h2 {
 #main-content h5:before { content:none; }
 #main-content h6:before { content:none; }
 
+table {
+  border: 1px solid #797775;
+  background-color: #33312F;
+}
+
+th {
+  font-weight: 400;
+}
+
 td, th {
   padding: 10px;
 }
 
+tbody tr:nth-child(odd) {
+  background-color: #3F3D3B;
+}
+
 #content-wrapper {
-  border-top: solid 1px #99A1A6;
+  border-top: solid 1px #fff;
 }
