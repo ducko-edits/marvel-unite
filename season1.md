@@ -10,8 +10,6 @@ permalink: /season-1/
 
 Explore the backstories of Iron Man, Captain America, and Thor as they grow towards becoming central pieces of the Avengers Initiative.
 
-* * *
-
 ### Featuring
 
 <p>
