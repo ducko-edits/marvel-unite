@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="assets/images/seriesPoster_450px.jpg" align="right" style="margins: 15px;"/>
+<img src="assets/images/seriesPoster_450px.jpg" align="right" style="margin: 0px 0px 0px 10px;"/>
 
 # About
 
