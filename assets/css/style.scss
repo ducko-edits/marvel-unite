@@ -19,6 +19,10 @@ iframe {
   src: url("../fonts/kenyan coffee rg.otf");
 }
 
+body {
+  color: #EDEBE9;
+}
+
 header {
   font-family: "TacticSans";
 }
@@ -27,28 +31,38 @@ header h1 {
   font-family: "KenyanCoffee";
 }
 
+header h2 {
+  color: #fff;
+}
+
 #main-content h1 {
   font-family: "KenyanCoffee";
+  color: #EDEBE9;
 }
 
 #main-content h2 {
   font-family: "TacticSans";
+  color: #EDEBE9;
 }
 
 #main-content h3 {
   font-family: "TacticSans";
+  color: #EDEBE9;
 }
 
 #main-content h4 {
   font-family: "TacticSans";
+  color: #EDEBE9;
 }
 
 #main-content h5 {
   font-family: "TacticSans";
+  color: #EDEBE9;
 }
 
 #main-content h6 {
   font-family: "TacticSans";
+  color: #EDEBE9;
 }
 
 #main-content h1:before { content:none; }
@@ -60,4 +74,8 @@ header h1 {
 
 td, th {
   padding: 10px;
+}
+
+#content-wrapper {
+  border-top: solid 1px #99A1A6;
 }
