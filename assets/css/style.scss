@@ -151,7 +151,7 @@ aside#sidebar h4:before {
   iframe { aspect-ratio: 1; }
   aside#sidebar { padding: 0px 20px; }
 
-  .image-with-text-right .image-with-text-left {
+  .image-with-text-right, .image-with-text-left {
     float: none;
     margin: 0px 0px 10px 0px;
     padding: 0px !important;
