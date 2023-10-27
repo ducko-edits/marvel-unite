@@ -67,7 +67,7 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 >
 > *Great quality. In most setups, quality looks virtually the same as the other 2160p version for less than half the file size.*
 > 
-> <p><b><a href="magnet:?xt=urn:btih:18d3a9a4b66ccc0492bd5f22cf18c830f301ec48&dn=Marvel%20Unite%20(2023)%20Season%201%20S01%20(2160p%2012Mbps%20x265%20HEVC%20HDR%20AAC%205.1%20ducko)&tr=udp%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2fbt2.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">Magnet Link</a></b></p>
+> <a href="magnet:?xt=urn:btih:18d3a9a4b66ccc0492bd5f22cf18c830f301ec48&dn=Marvel%20Unite%20(2023)%20Season%201%20S01%20(2160p%2012Mbps%20x265%20HEVC%20HDR%20AAC%205.1%20ducko)&tr=udp%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2fbt2.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce"><b>Magnet Link</b></a>
 
 > ### 2160p 24Mbps x265 (HEVC)
 > 
@@ -77,7 +77,7 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 > 
 > *Excellent quality. Best for home theater setups and when file size isn't a concern. Lossless audio also has higher dynamic range for high-end audio setups.*
 > 
-> (**Magnet Link**)[magnet:?xt=urn:btih:dbe269f2c9d0d782ccd6a25316dc0d1dc2be7f3a&dn=Marvel%20Unite%20(2023)%20Season%201%20S01%20(2160p%2024Mbps%20x265%20HEVC%20HDR%20DTS-HD%20MA%205.1%20ducko)&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fbt2.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2fbt1.archive.org%3a6969%2fannounce]
+> <a href="magnet:?xt=urn:btih:dbe269f2c9d0d782ccd6a25316dc0d1dc2be7f3a&dn=Marvel%20Unite%20(2023)%20Season%201%20S01%20(2160p%2024Mbps%20x265%20HEVC%20HDR%20DTS-HD%20MA%205.1%20ducko)&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fbt2.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2fbt1.archive.org%3a6969%2fannounce"><b>Magnet Link</b></a>
 
 * * *
 
