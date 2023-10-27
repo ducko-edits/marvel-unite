@@ -47,7 +47,7 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 >
 > *Great quality. This is the best 1080p version currently available, but not all devices support x265/HEVC playback.*
 >
-> (**Magnet Link**)[magnet:?xt=urn:btih:b404bf98c682700c70cd0a5770d80affe986adbd&dn=Marvel%20Unite%20(2023)%20Season%201%20S01%20(1080p%206Mbps%20x265%20HEVC%20AAC%205.1%20ducko)&tr=udp%3a%2f%2fbt2.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce]
+> <a href="magnet:?xt=urn:btih:b404bf98c682700c70cd0a5770d80affe986adbd&dn=Marvel%20Unite%20(2023)%20Season%201%20S01%20(1080p%206Mbps%20x265%20HEVC%20AAC%205.1%20ducko)&tr=udp%3a%2f%2fbt2.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce"><b>Magnet Link</b></a>
 
 > ### 1080p 8Mbps x264 (AVC)
 >
@@ -67,7 +67,7 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 >
 > *Great quality. In most setups, quality looks virtually the same as the other 2160p version for less than half the file size.*
 > 
-> (**Magnet Link**)[magnet:?xt=urn:btih:18d3a9a4b66ccc0492bd5f22cf18c830f301ec48&dn=Marvel%20Unite%20(2023)%20Season%201%20S01%20(2160p%2012Mbps%20x265%20HEVC%20HDR%20AAC%205.1%20ducko)&tr=udp%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2fbt2.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce]
+> <p><b><a href="magnet:?xt=urn:btih:18d3a9a4b66ccc0492bd5f22cf18c830f301ec48&dn=Marvel%20Unite%20(2023)%20Season%201%20S01%20(2160p%2012Mbps%20x265%20HEVC%20HDR%20AAC%205.1%20ducko)&tr=udp%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2fbt2.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">Magnet Link</a></b></p>
 
 > ### 2160p 24Mbps x265 (HEVC)
 > 
