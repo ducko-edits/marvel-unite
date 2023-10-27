@@ -29,25 +29,15 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 
 ## Downloads
 
-> ### 2160p 24Mbps x265 (HEVC)
-> 
-> | **File Size** | **Resolution** | **Codec** | **Bitrate** | **Audio** |
-> | :---: | :---: | :---: | :---: | :---: |
-> | xx GB | 3840 x 2160 | x265 MKV | 24 Mbps | 5.1 DTS-HD MA <br /> 5.1 AC-3 |
-> 
-> *Excellent quality. Best for home theater setups and when file size isn't a concern. Lossless audio also has higher dynamic range for high-end audio setups.*
-> 
-> Magnet Link -- Direct Download
-
-> ### 2160p 12Mbps x265 (HEVC)
-> 
-> | **File Size** | **Resolution** | **Codec** | **Bitrate** | **Audio** |
-> | :---: | :---: | :---: | :---: | :---: |
-> | xx GB | 3840 x 2160 | x265 MKV | 12 Mbps | 5.1 AAC |
+> ### 1080p 2.5Mbps x264 (AVC)
 >
-> *Great quality. In most setups, quality looks almost the same as the previous version for less than half the file size.*
-> 
-> Magnet Link -- Direct Download
+> | **File Size** | **Resolution** | **Codec** | **Bitrate** | **Audio** |
+> | :---: | :---: | :---: | :---: | :---: |
+> | xx GB | 1920 x 1080 | x264 MP4 | 2.5 Mbps | 2.0 AAC |
+>
+> *Lowest quality. Created primarily for archive.org streaming.*
+>
+> [**Direct Download**](https://archive.org/compress/Marvel-Unite-S1/formats=MPEG4&file=/Marvel-Unite-S1.zip) (via archive.org)
 
 > ### 1080p 6Mbps x265 (HEVC)
 >
@@ -57,7 +47,7 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 >
 > *Great quality. This is the best 1080p version currently available, but not all devices support x265/HEVC playback.*
 >
-> Magnet Link -- Direct Download
+> Magnet Link
 
 > ### 1080p 8Mbps x264 (AVC)
 >
@@ -67,17 +57,27 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 >
 > *Good quality. Less quality and bigger filesize than the HEVC 1080p version, but this version should be compatible with virtually anything.*
 >
-> Magnet Link -- Direct Download
+> Magnet Link
 
-> ### 1080p 2.5Mbps x264 (AVC)
->
+> ### 2160p 12Mbps x265 (HEVC)
+> 
 > | **File Size** | **Resolution** | **Codec** | **Bitrate** | **Audio** |
 > | :---: | :---: | :---: | :---: | :---: |
-> | xx GB | 1920 x 1080 | x264 MP4 | 2.5 Mbps | 2.0 AAC |
+> | xx GB | 3840 x 2160 | x265 MKV | 12 Mbps | 5.1 AAC |
 >
-> *Lowest quality. Created primarily for archive.org streaming.*
->
-> Direct Download
+> *Great quality. In most setups, quality looks virtually the same as the other 2160p version for less than half the file size.*
+> 
+> Magnet Link
+
+> ### 2160p 24Mbps x265 (HEVC)
+> 
+> | **File Size** | **Resolution** | **Codec** | **Bitrate** | **Audio** |
+> | :---: | :---: | :---: | :---: | :---: |
+> | xx GB | 3840 x 2160 | x265 MKV | 24 Mbps | 5.1 DTS-HD MA <br /> 5.1 AC-3 |
+> 
+> *Excellent quality. Best for home theater setups and when file size isn't a concern. Lossless audio also has higher dynamic range for high-end audio setups.*
+> 
+> Magnet Link
 
 * * *
 
