@@ -33,7 +33,7 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 >
 > | **File Size** | **Resolution** | **Codec** | **Bitrate** | **Audio** |
 > | :---: | :---: | :---: | :---: | :---: |
-> | xx GB | 1920 x 1080 | x264 MP4 | 2.5 Mbps | 2.0 AAC |
+> | 10.9 GB | 1920 x 1080 | x264 MP4 | 2.5 Mbps | 2.0 AAC |
 >
 > *Lowest quality. Created primarily for archive.org streaming.*
 >
@@ -43,7 +43,7 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 >
 > | **File Size** | **Resolution** | **Codec** | **Bitrate** | **Audio** |
 > | :---: | :---: | :---: | :---: | :---: |
-> | xx GB | 1920 x 1080 | x265 MKV | 6 Mbps | 5.1 AAC |
+> | 26.1 GB | 1920 x 1080 | x265 MKV | 6 Mbps | 5.1 AAC |
 >
 > *Great quality. This is the best 1080p version currently available, but not all devices support x265/HEVC playback.*
 >
@@ -63,7 +63,7 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 > 
 > | **File Size** | **Resolution** | **Codec** | **Bitrate** | **Audio** |
 > | :---: | :---: | :---: | :---: | :---: |
-> | xx GB | 3840 x 2160 | x265 MKV | 12 Mbps | 5.1 AAC |
+> | 50.4 GB | 3840 x 2160 | x265 MKV | 12 Mbps | 5.1 AAC |
 >
 > *Great quality. In most setups, quality looks virtually the same as the other 2160p version for less than half the file size.*
 > 
@@ -73,7 +73,7 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 > 
 > | **File Size** | **Resolution** | **Codec** | **Bitrate** | **Audio** |
 > | :---: | :---: | :---: | :---: | :---: |
-> | xx GB | 3840 x 2160 | x265 MKV | 24 Mbps | 5.1 DTS-HD MA <br /> 5.1 AC-3 |
+> | 117.5 GB | 3840 x 2160 | x265 MKV | 24 Mbps | 5.1 DTS-HD MA <br /> 5.1 AC-3 |
 > 
 > *Excellent quality. Best for home theater setups and when file size isn't a concern. Lossless audio also has higher dynamic range for high-end audio setups.*
 > 
