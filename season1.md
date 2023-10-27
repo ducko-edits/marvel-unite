@@ -57,7 +57,7 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 >
 > | **File Size** | **Resolution** | **Codec** | **Bitrate** | **Audio** |
 > | :---: | :---: | :---: | :---: | :---: |
-> | xx GB | 1920 x 1080 | x264 MP4 | 8 Mbps | 5.1 AC-3 <br /> 2.0 AAC |
+> | 36.0 GB | 1920 x 1080 | x264 MP4 | 8 Mbps | 5.1 AC-3 <br /> 2.0 AAC |
 >
 > <br />
 >
