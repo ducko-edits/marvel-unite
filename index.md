@@ -26,20 +26,11 @@ A lot of attention was given towards giving each episode a cohesive arc with pro
 
 ## How to Watch
 
-The lowest bitrate version of Marvel: Unite can be streamed through archive.org, and higher quality versions are available by torrent.
+### Use the season links on the sidebar to stream or to download.
 
-**Use the season links on the left sidebar for either option.**
+On each season page, the low bitrate version of Marvel: Unite can be streamed in your browser (thanks to archive.org). There are also magnet links for torrents of the higher quality versions.
 
-
-## Series Outline
-
-| _Season 1_ | _Season 2_ <br /> _(coming soon)_ | _Season 3_ <br /> _(coming soon)_ | _Season 4_ <br /> _(coming soon)_ | _Season 5_ <br /> _(coming soon)_ |
-| :---: | :---: | :---: | :---: | :---: |
-| Iron Man | Captain America: The Winter Soldier | Guardians of the Galaxy | Thor: Ragnarok | Avengers: Infinity War |
-| Captain America: The First Avenger | Iron Man 3 | Captain America: Civil War | Black Panther | Ant-Man and the Wasp |
-| Thor | Thor: The Dark World | Ant-Man | Guardians of the Galaxy Vol. 2 | Captain Marvel |
-| Iron Man 2 | Avengers: Age of Ultron | Doctor Strange | Spider-Man: Homecoming | Avengers: Endgame |
-| The Avengers | | | Black Widow | |
+For more info about the series, read the [FAQ page](/marvel-unite/faq/).
 
 
 ## Special Thanks
