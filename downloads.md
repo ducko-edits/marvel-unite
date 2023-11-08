@@ -10,8 +10,6 @@ Marvel: Unite is available in **five** different formats. Currently, only the lo
 
 The main thing you need to decide is if you want **1080p** or **2160p** resolution, and which **video codec** you want (**x265** is better, but many devices only support **x264**).
 
-<br />
-
 * * *
 
 ### 1080p 2.5Mbps x264 (AVC)
