@@ -27,10 +27,6 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 
 * * *
 
-## Downloads available in the link on the sidebar.
-
-* * *
-
 ## Episode Descriptions
 
 | **No.** | **Title** | **Description** |
