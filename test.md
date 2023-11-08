@@ -1,7 +1,17 @@
 ---
-layout: default
+layout: s1/S01E01
 title: Test
 permalink: /test/
+---
+
+---
+
+TEST
+
+---
+
+TEST
+
 ---
 
 <video id="video" controls preload="metadata">
@@ -10,6 +20,6 @@ permalink: /test/
     label="English"
     kind="subtitles"
     srclang="en"
-    src="assets/vtt/s1/S01E01.en.vtt"
+    src="../assets/vtt/s1/S01E01.en.vtt"
     ></track>
 </video>
