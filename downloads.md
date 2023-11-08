@@ -22,6 +22,8 @@ The main thing you need to decide is if you want **1080p** or **2160p** resoluti
 | :---: | :---: | :---: | :---: |
 | 10.9 GB | 1920 x 1080 | x264 MP4 | 2.5 Mbps | 2.0 AAC |
 
+<br />
+
 | _Season_ | _Link_ | _File Size_ |
 | :---: | :---: | :---: |
 | Season 1 | » [**Direct Download**](https://archive.org/compress/m-u_s01/formats=SUBRIP,MPEG4,ARCHIVE%20BITTORRENT,METADATA) (via archive.org) « | 10.9 GB |
@@ -32,11 +34,13 @@ The main thing you need to decide is if you want **1080p** or **2160p** resoluti
 
 ### 1080p 6Mbps x265 (HEVC)
 
-> | _Resolution_ | _Codec_ | _Bitrate_ | _Audio_ |
-> | :---: | :---: | :---: | :---: |
-> | 26.1 GB | 1920 x 1080 | x265 MKV | 6 Mbps | 5.1 AAC |
-> 
 > _Great quality. This is the best 1080p version currently available, but not all devices support x265/HEVC playback._
+
+| _Resolution_ | _Codec_ | _Bitrate_ | _Audio_ |
+| :---: | :---: | :---: | :---: |
+| 26.1 GB | 1920 x 1080 | x265 MKV | 6 Mbps | 5.1 AAC |
+
+<br />
 
 | _Season_ | _Link_ | _File Size_ |
 | :---: | :---: | :---: |
@@ -49,10 +53,12 @@ The main thing you need to decide is if you want **1080p** or **2160p** resoluti
 ### 1080p 8Mbps x264 (AVC)
 
 > _Good quality. Less quality and bigger filesize than the HEVC 1080p version, but this version should be compatible with virtually anything._
-> 
-> | _Resolution_ | _Codec_ | _Bitrate_ | _Audio_ |
-> | :---: | :---: | :---: | :---: |
-> | 36.0 GB | 1920 x 1080 | x264 MP4 | 8 Mbps | 5.1 AC-3 <br /> 2.0 AAC |
+
+| _Resolution_ | _Codec_ | _Bitrate_ | _Audio_ |
+| :---: | :---: | :---: | :---: |
+| 36.0 GB | 1920 x 1080 | x264 MP4 | 8 Mbps | 5.1 AC-3 <br /> 2.0 AAC |
+
+<br />
 
 | _Season_ | _Link_ | _File Size_ |
 | :---: | :---: | :---: |
@@ -63,12 +69,14 @@ The main thing you need to decide is if you want **1080p** or **2160p** resoluti
 * * *
 
 ### 2160p 12Mbps x265 (HEVC)
- 
+
+> _Great quality. In most setups, quality looks virtually the same as the other 2160p version for less than half the file size._
+
 | _Resolution_ | _Codec_ | _Bitrate_ | _Audio_ |
 | :---: | :---: | :---: | :---: |
 | 50.4 GB | 3840 x 2160 | x265 MKV | 12 Mbps | 5.1 AAC |
 
-_Great quality. In most setups, quality looks virtually the same as the other 2160p version for less than half the file size._
+<br />
 
 | _Season_ | _Link_ | _File Size_ |
 | :---: | :---: | :---: |
@@ -79,12 +87,14 @@ _Great quality. In most setups, quality looks virtually the same as the other 21
 * * *
 
 ### 2160p 24Mbps x265 (HEVC)
- 
+
+> _Excellent quality. Best for home theater setups and when file size isn't a concern. Lossless audio also has higher dynamic range for high-end audio setups._
+
 | _Resolution_ | _Codec_ | _Bitrate_ | _Audio_ |
 | :---: | :---: | :---: | :---: |
 | 117.5 GB | 3840 x 2160 | x265 MKV | 24 Mbps | 5.1 DTS-HD MA <br /> 5.1 AC-3 |
 
-_Excellent quality. Best for home theater setups and when file size isn't a concern. Lossless audio also has higher dynamic range for high-end audio setups._
+<br />
 
 | _Season_ | _Link_ | _File Size_ |
 | :---: | :---: | :---: |
