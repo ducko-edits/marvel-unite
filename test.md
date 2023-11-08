@@ -1,5 +1,5 @@
 ---
-layout: test
+layout: default
 title: Test
 permalink: /test/
 ---
@@ -10,6 +10,6 @@ permalink: /test/
     label="English"
     kind="subtitles"
     srclang="en"
-    src="assets/vtt/s1/S01E01.vtt"
+    src="assets/vtt/s1/S01E01.en.vtt"
     ></track>
 </video>
