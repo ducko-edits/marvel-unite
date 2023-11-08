@@ -39,7 +39,7 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 > 
 > _Lowest quality. Created primarily for archive.org streaming._
 >
-> » [**Direct Download**](https://archive.org/compress/Marvel-Unite-S1/formats=MPEG4&file=/Marvel-Unite-S1.zip) (via archive.org) «
+> » [**Direct Download**](https://archive.org/compress/m-u_s01/formats=SUBRIP,MPEG4,ARCHIVE%20BITTORRENT,METADATA) (via archive.org) «
 
 > ### 1080p 6Mbps x265 (HEVC)
 >
