@@ -26,12 +26,13 @@ A lot of attention was given towards giving each episode a cohesive arc with pro
 
 ## How to Watch
 
-### Use the season links on the sidebar to stream or to download.
+Use the links on the sidebar to download or to watch online.
 
-On each season page, the low bitrate version of Marvel: Unite can be streamed in your browser (thanks to archive.org). There are also magnet links for torrents of the higher quality versions.
+The low bitrate version of Marvel: Unite can be streamed in your browser (thanks to archive.org). Higher quality versions can be downloaded via torrent on the [downloads](/marvel-unite/downloads) page.
 
-For more info about the series, read the [FAQ page](/marvel-unite/faq/).
+### For more info about the series, read the [FAQ page](/marvel-unite/faq/).
 
+* * *
 
 ## Special Thanks
 * My wife <3
