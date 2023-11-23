@@ -24,7 +24,7 @@ The main thing you need to decide is if you want **1080p** or **2160p** resoluti
 >
 > | _Season_ | _Link_ | _File Size_ |
 > | :---: | :---: | :---: |
-> | Season 1 | » [**Direct Download**](https://archive.org/compress/m-u_s01/formats=SUBRIP,MPEG4,ARCHIVE%20BITTORRENT,METADATA) (via archive.org) « | 10.9 GB |
+> | Season 1 | **Currently unavailable** | 10.9 GB |
 
 <br />
 
