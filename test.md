@@ -14,12 +14,46 @@ TEST
 
 ---
 
-<video id="video" controls preload="metadata">
-  <source src="https://www.googleapis.com/drive/v3/files/10abSiIW56LN3lyStUtHcuKTimHdIMl2F?key=AIzaSyCELCHOYpEsKXSFRe0zB7UFCRCnl8EjMOk&alt=media">
-  <track 
-    label="English"
-    kind="subtitles"
-    srclang="en"
-    src="../assets/vtt/s1/S01E01.en.vtt"
-    ></track>
-</video>
+<video height="500px" controls="" src="http://s3.amazonaws.com/akamai.netstorage/HD_downloads/earth_night_rotate_1080.mov" ></video>
+
+
+<ol id="bvideo_playlist">
+    <li><a href="http://s3.amazonaws.com/akamai.netstorage/HD_downloads/earth_night_rotate_1080.mov">Animation: Rotating Earth at Night</a><span style="float:right;"><a target="_blank" download="" href="http://s3.amazonaws.com/akamai.netstorage/HD_downloads/earth_night_rotate_1080.mov">55.00 MB</a></span></li>
+    <li><a href="http://s3.amazonaws.com/akamai.netstorage/HD_downloads/rbsp_launch_1080p.mp4">Radiation Belt Storm Probes Launch</a></li>
+    <li><a href="http://s3.amazonaws.com/akamai.netstorage/HD_downloads/curiosity_lands.mov">Dropping in on Mars in High-Res</a><span style="float:right;"><a target="_blank" download="" href="http://s3.amazonaws.com/akamai.netstorage/HD_downloads/curiosity_lands.mov">105.00 MB</a></span></li>
+    <li><a href="http://s3.amazonaws.com/akamai.netstorage/HD_downloads/GRAIL_launch_1080.mov">GRAIL Launches on Mission to Moon</a></li>
+    <li><a href="http://s3.amazonaws.com/akamai.netstorage/HD_downloads/HLV_Launch_anim.mov">Space Launch System Animation</a></li>
+</ol>
+
+<script>
+	
+var video_playlist = [
+	{
+		"name": "Animation: Rotating Earth at Night",
+		"link": "http://s3.amazonaws.com/akamai.netstorage/HD_downloads/earth_night_rotate_1080.mov",
+		"size": 55000000,
+	},
+	{
+		"name": "Radiation Belt Storm Probes Launch",
+		"link": "http://s3.amazonaws.com/akamai.netstorage/HD_downloads/rbsp_launch_1080p.mp4",
+		"size": 475000000,
+	},
+	{
+		"name": "Dropping in on Mars in High-Res",
+		"link": "http://s3.amazonaws.com/akamai.netstorage/HD_downloads/curiosity_lands.mov",
+        "size": 105000000,
+	},
+    {
+        "name": "GRAIL Launches on Mission to Moon",
+        "link": "http://s3.amazonaws.com/akamai.netstorage/HD_downloads/GRAIL_launch_1080.mov",
+        "size": 1113000000,
+    },
+    {
+        "name": "Space Launch System Animation",
+        "link": "http://s3.amazonaws.com/akamai.netstorage/HD_downloads/HLV_Launch_anim.mov",
+        "size": 642570000,
+    },
+
+];
+
+</script>
