@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
 
+		<link href="//vjs.zencdn.net/8.3.0/video-js.min.css" rel="stylesheet">
+		<script src="//vjs.zencdn.net/8.3.0/video.min.js"></script>
+		
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -28,20 +31,20 @@
 
     <div id="content-wrapper">
       <div class="inner clearfix">
-				<div id="season-container">
-					<video
-							id="video"
-							width="940"
-							controls
-							preload="metadata">
-				  	<source src="https://www.googleapis.com/drive/v3/files/10abSiIW56LN3lyStUtHcuKTimHdIMl2F?key=AIzaSyCELCHOYpEsKXSFRe0zB7UFCRCnl8EjMOk&alt=media">
-						<track 
-							label="English"
-							kind="subtitles"
-							srclang="en"
-							src="../assets/vtt/s1/S01E01.en.vtt"
-							></track>
-					</video>
+        <div id="season-container">
+          <video
+            id="video"
+            width="940"
+            controls
+            preload="metadata">
+          <source src="https://www.googleapis.com/drive/v3/files/10abSiIW56LN3lyStUtHcuKTimHdIMl2F?key=AIzaSyCELCHOYpEsKXSFRe0zB7UFCRCnl8EjMOk&alt=media">
+          <track 
+            label="English"
+            kind="subtitles"
+            srclang="en"
+            src="../assets/vtt/s1/S01E01.en.vtt"
+            default />
+          </video>
 				</div>
         
         <section id="main-content">
