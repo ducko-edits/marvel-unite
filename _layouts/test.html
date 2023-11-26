@@ -1,57 +1,74 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>Playlist video player for HTML5</title>
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
-  <script src="../assets/js/better-video.js"></script>
-</head>
-<body>
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
+    
+    <link href="//vjs.zencdn.net/8.3.0/video-js.min.css" rel="stylesheet">
+    <script src="//vjs.zencdn.net/8.3.0/video.min.js"></script>
 
-<div id="site-content"></div>
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
 
-<video height="500px" controls="" src="http://s3.amazonaws.com/akamai.netstorage/HD_downloads/earth_night_rotate_1080.mov" ></video>
+{% seo %}
 
+    {% include head-custom.html %}
+  </head>
 
-<ol id="bvideo_playlist">
-    <li><a href="http://s3.amazonaws.com/akamai.netstorage/HD_downloads/earth_night_rotate_1080.mov">Animation: Rotating Earth at Night</a><span style="float:right;"><a target="_blank" download="" href="http://s3.amazonaws.com/akamai.netstorage/HD_downloads/earth_night_rotate_1080.mov">55.00 MB</a></span></li>
-    <li><a href="http://s3.amazonaws.com/akamai.netstorage/HD_downloads/rbsp_launch_1080p.mp4">Radiation Belt Storm Probes Launch</a></li>
-    <li><a href="http://s3.amazonaws.com/akamai.netstorage/HD_downloads/curiosity_lands.mov">Dropping in on Mars in High-Res</a><span style="float:right;"><a target="_blank" download="" href="http://s3.amazonaws.com/akamai.netstorage/HD_downloads/curiosity_lands.mov">105.00 MB</a></span></li>
-    <li><a href="http://s3.amazonaws.com/akamai.netstorage/HD_downloads/GRAIL_launch_1080.mov">GRAIL Launches on Mission to Moon</a></li>
-    <li><a href="http://s3.amazonaws.com/akamai.netstorage/HD_downloads/HLV_Launch_anim.mov">Space Launch System Animation</a></li>
-</ol>
+  <body>
+    <header>
+      <div class="inner">
+        <a href="{{ '/' | absolute_url }}">
+          <h1>MARVEL: UNITE</h1>
+        </a>
+        <h2>An unofficial MCU fan edit by ducko.</h2>
+      </div>
+    </header>
 
-<script>
-	
-var video_playlist = [
-	{
-		"name": "Animation: Rotating Earth at Night",
-		"link": "http://s3.amazonaws.com/akamai.netstorage/HD_downloads/earth_night_rotate_1080.mov",
-		"size": 55000000,
-	},
-	{
-		"name": "Radiation Belt Storm Probes Launch",
-		"link": "http://s3.amazonaws.com/akamai.netstorage/HD_downloads/rbsp_launch_1080p.mp4",
-		"size": 475000000,
-	},
-	{
-		"name": "Dropping in on Mars in High-Res",
-		"link": "http://s3.amazonaws.com/akamai.netstorage/HD_downloads/curiosity_lands.mov",
-        "size": 105000000,
-	},
-    {
-        "name": "GRAIL Launches on Mission to Moon",
-        "link": "http://s3.amazonaws.com/akamai.netstorage/HD_downloads/GRAIL_launch_1080.mov",
-        "size": 1113000000,
-    },
-    {
-        "name": "Space Launch System Animation",
-        "link": "http://s3.amazonaws.com/akamai.netstorage/HD_downloads/HLV_Launch_anim.mov",
-        "size": 642570000,
-    },
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+				<div id="season-container">
+					<video
+							id="video"
+							width="940"
+							controls
+							preload="metadata"
+							data-setup='{}'>
+				  	<source src="https://www.googleapis.com/drive/v3/files/10abSiIW56LN3lyStUtHcuKTimHdIMl2F?key=AIzaSyCELCHOYpEsKXSFRe0zB7UFCRCnl8EjMOk&alt=media">
+						<track 
+							label="English"
+							kind="subtitles"
+							srclang="en"
+							src="../assets/vtt/s1/S01E01.en.vtt"
+							></track>
+						<p class="vjs-no-js">
+					    To view this video please enable JavaScript, and consider upgrading to a
+					    web browser that
+					    <a href="https://videojs.com/html5-video-support/" target="_blank">
+					      supports HTML5 video
+					    </a>
+					  </p>
+					</video>
+				</div>
+        
+        <section id="main-content">
+          {{ content }}
+        </section>
 
-];
-
-</script>
-</body>
+        <aside id="sidebar">
+          <a href="/marvel-unite/"><h2>About</h2></a>
+          <a href="/marvel-unite/faq/"><h2>FAQ/Contact</h2></a>
+          <a href="/marvel-unite/downloads/"><h2>Downloads</h2></a>
+          <hr>
+          <h3>Watch Online</h2>
+          <a href="/marvel-unite/season-1/"><h2>Season 1</h2></a>
+          <h2>Season 2 <i>(coming soon)</i></h2>
+        </aside>
+      </div>
+    </div>
+  </body>
 </html>
