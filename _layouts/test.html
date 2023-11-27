@@ -31,12 +31,12 @@
 
     <div id="content-wrapper">
       <div class="inner clearfix">
-        <div id="player-container" max-width="940">
+        <div id="player-container">
           <video
             id="video"
             class="video-js"
-            height="480"
-            width="720"
+            height="530"
+            width="940"
             controls
             preload="metadata">
             <source src="https://www.googleapis.com/drive/v3/files/10abSiIW56LN3lyStUtHcuKTimHdIMl2F?key=AIzaSyCELCHOYpEsKXSFRe0zB7UFCRCnl8EjMOk&alt=media">
@@ -63,13 +63,18 @@
               {
                 kind: 'subtitles',
                 label: 'English',
-                src: '..assets/vtt/s1/S01E01.en.vtt',
+                src: '../assets/vtt/s1/S01E01.en.vtt',
                 default: true
+              }
+            ],
+            thumbnail: [
+              {
+                src: '../assets/thumb/S01E01.jpg'
               }
             ]
           },
           {
-            name: 'Disney\'s Oceans 2',
+            name: '2 - Where Did He Come From?',
             description: 'Explore the depths of our planet\'s oceans. ' +
               'Experience the stories that connect their world to ours. ' +
               'Lorem ipsum dolor sit amet, consectetur adipiscing elit, ' +
@@ -80,14 +85,14 @@
               'fugiat nulla pariatur. Excepteur sint occaecat cupidatat non ' +
               'proident, sunt in culpa qui officia deserunt mollit anim id est ' +
               'laborum.',
-            duration: 45,
+            duration: 3160,
             sources: [
               { src: 'http://vjs.zencdn.net/v/oceans.mp4?2', type: 'video/mp4' },
               { src: 'http://vjs.zencdn.net/v/oceans.webm?2', type: 'video/webm' }
             ]
           }]);
 
-          player.playlistUi();
+          player.playlistUi({horizontal: true});
         </script>
         
         <section id="main-content">
