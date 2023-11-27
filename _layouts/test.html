@@ -69,7 +69,12 @@
             ],
             thumbnail: [
               {
-                src: '../assets/thumb/S01E01.jpg'
+                srcset: '../assets/thumb/S01E01.jpg',
+                type: 'image/jpeg',
+                media: '{min-width: 400px;}'
+              },
+              {
+                src: '../assets/thumb/S01E01-low.jpg'
               }
             ]
           },
@@ -92,7 +97,12 @@
             ],
             thumbnail: [
               {
-                src: '../assets/thumb/S01E02.jpg'
+                srcset: '../assets/thumb/S01E02.jpg',
+                type: 'image/jpeg',
+                media: '{min-width: 400px;}'
+              },
+              {
+                src: '../assets/thumb/S01E02-low.jpg'
               }
             ]
           }]);
