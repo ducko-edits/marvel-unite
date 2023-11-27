@@ -31,10 +31,12 @@
 
     <div id="content-wrapper">
       <div class="inner clearfix">
-        <div id="season-container" max-width="940">
+        <div id="player-container" max-width="940">
           <video
             id="video"
             class="video-js"
+            height="480"
+            width="720"
             controls
             preload="metadata">
             <source src="https://www.googleapis.com/drive/v3/files/10abSiIW56LN3lyStUtHcuKTimHdIMl2F?key=AIzaSyCELCHOYpEsKXSFRe0zB7UFCRCnl8EjMOk&alt=media">
@@ -45,6 +47,7 @@
               src="../assets/vtt/s1/S01E01.en.vtt"
               default />
           </video>
+          
           <div class="vjs-playlist"></div>
         </div>
 
@@ -69,16 +72,6 @@
                 src: '..assets/vtt/s1/S01E01.en.vtt',
                 default: true
               }
-            ],
-            thumbnail: [
-              {
-                srcset: 'test/example/oceans.jpg',
-                type: 'image/jpeg',
-                media: '(min-width: 400px;)'
-              },
-              {
-                src: 'test/example/oceans-low.jpg'
-              }
             ]
           },
           {
@@ -96,23 +89,11 @@
             duration: 45,
             sources: [
               { src: 'http://vjs.zencdn.net/v/oceans.mp4?2', type: 'video/mp4' },
-              { src: 'http://vjs.zencdn.net/v/oceans.webm?2', type: 'video/webm' },
-            ],
-      
-            // you can use <picture> syntax to display responsive images
-            thumbnail: [
-              {
-                srcset: 'test/example/oceans.jpg?2',
-                type: 'image/jpeg',
-                media: '(min-width: 400px;)'
-              },
-              {
-                src: 'test/example/oceans-low.jpg?2'
-              }
+              { src: 'http://vjs.zencdn.net/v/oceans.webm?2', type: 'video/webm' }
             ]
           });
 
-          player.playlistUi();
+          player.playlistUi({horizontal: true);
         </script>
         
         <section id="main-content">
