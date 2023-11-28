@@ -34,15 +34,13 @@
         <div id="main-player-container">
           <video
             id="video"
-            class="video-js vjs-fluid"
+            class="video-js"
             controls
             data-setup={}
             preload="metadata">
           </video>
           
-          <div class="playlist-container preview-player-dimensions vjs-fluid">
-            <ol class="vjs-playlist"></ol>
-          </div>
+          <div class="vjs-playlist"></div>
         </div>
 
         <script src="https://vjs.zencdn.net/8.3.0/video.min.js"></script>
@@ -106,7 +104,7 @@
             ]
           }]);
 
-          player.playlistUi({ showDescriptions: true, horizontal: true });
+          player.playlistUi({ showDescriptions: true });
         </script>
         
         <section id="main-content">
