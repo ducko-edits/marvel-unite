@@ -2,7 +2,7 @@
 #EXT-X-VERSION:7
 #EXT-X-TARGETDURATION:39
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-MAP:URI="Q:\Work\MCUTV\export\s01_1080_v2_hls\S01E01-x265\init.mp4"
+#EXT-X-MAP:URI="https://www.googleapis.com/drive/v3/files/1Gizu8Y8oSp9tizl4VjRgKM2BiygrdyfF?key=AIzaSyCELCHOYpEsKXSFRe0zB7UFCRCnl8EjMOk&alt=media"
 #EXTINF:31.281000,
 https://www.googleapis.com/drive/v3/files/1oIlvmGoXI_2ebJNuO5qqwTlVNmqm28_z?key=AIzaSyCELCHOYpEsKXSFRe0zB7UFCRCnl8EjMOk&alt=media
 #EXTINF:38.872000,
