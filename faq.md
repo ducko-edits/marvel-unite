@@ -20,21 +20,19 @@ permalink: /faq/
 
 > Endgame will mark the end of Marvel: Unite because it's a perfect conclusion to the narrative told up to that point.
 > 
-> A sequel series with post-Endgame content is possible, but it would be a difficult task considering the sheer volume of content. Plot threads from TV series would probably need to be folded in. Frankly, a lot of the content is bloated and subpar, and would need to be cut. None of this sounds very enticing to me, personally.
+> A sequel series with post-Endgame content is possible, but it would be a difficult task considering the sheer volume of content. Plot threads from TV series would need to be trimmed down and folded in, and a lot of bloated, subpar content from the films would need to be cut, too. Frankly, it gives me a migraine just thinking about trying to make something coherent out of it all.
 > 
-> I was motivated to work on Unite because I knew that the payoff in Endgame was worth it. Maybe Secret Wars will come out in a few years and blow everyone away, but until then, I don't have any plans to continue the series past Endgame.
+> I was motivated to work on Unite because I knew that the payoff in Endgame was worth it. Maybe Avengers 6 will come out in however many years and blow everyone away, but until then, I don't have any plans to continue the series past Endgame.
 
 ### How do I download these to my computer?
 
-> All download links are found on the individual season pages.
-> 
-> The lowest quality versions can be downloaded directly from archive.org.
-> 
-> Higher quality versions are available via torrent. Torrenting allows for high-speed secure downloads, which will never be taken down as long as the community continues [seeding](https://help.bittorrent.com/en/support/solutions/articles/29000023347-what-is-seeding-). Simply copy and paste the magnet link from the season page into a Bittorrent program like [qBittorrent](https://www.qbittorrent.org/), and then leave the program running so other users can download the files from you.
+> Downloads are available via torrent. Torrenting allows for high-speed secure downloads, which will never be taken down as long as the community continues [seeding](https://help.bittorrent.com/en/support/solutions/articles/29000023347-what-is-seeding-).
+>
+> Simply copy and paste the magnet link from the [downloads](/downloads/) page into a Bittorrent program like [qBittorrent](https://www.qbittorrent.org/). After the download is finished, leave the program running so other users can download the files from you.
 
 ### Will you make Blu-ray ISOs?
 
-> Maybe, but it's not a priority for me. Main thing holding me back is that I have very little experience putting together custom Blu-ray menus, and I'm not really in a big hurry to learn.
+> Maybe, but it's not a priority for me. Hit me up if you have experience making custom Blu-ray menus.
 
 ## Contact
 
