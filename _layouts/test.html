@@ -65,24 +65,75 @@
               }
             ],
             thumbnail: [{ src: '../assets/thumb/S01E01-low.jpg' }],
-            poster: [{ src: '../assets/thumb/S01E01.jpg' }]
+            poster: '../assets/thumb/S01E01.jpg'
           },
           {
             name: '2 - Where Did He Come From?',
             duration: 3160,
             sources: [
-              { src: '../assets/hls/S01E01-x265.m3u8', type: 'application/x-mpegURL' }
+              { src: '../assets/hls/S01E02.m3u8', type: 'application/x-mpegURL' }
             ],
-            thumbnail: [
+            textTracks: [
               {
-                srcset: '../assets/thumb/S01E02.jpg',
-                type: 'image/jpeg',
-                media: '{min-width: 400px;}'
-              },
-              {
-                src: '../assets/thumb/S01E02-low.jpg'
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s1/S01E02.en.vtt',
+                default: true
               }
-            ]
+            ],
+            thumbnail: [{ src: '../assets/thumb/S01E02-low.jpg' }],
+            poster: '../assets/thumb/S01E02.jpg'
+          },
+          {
+            name: '3 - A Box of Scraps',
+            duration: 3160,
+            sources: [
+              { src: '../assets/hls/S01E03.m3u8', type: 'application/x-mpegURL' }
+            ],
+            textTracks: [
+              {
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s1/S01E03.en.vtt',
+                default: true
+              }
+            ],
+            thumbnail: [{ src: '../assets/thumb/S01E03-low.jpg' }],
+            poster: '../assets/thumb/S01E03.jpg'
+          },
+          {
+            name: '4 - Unworthy',
+            duration: 3160,
+            sources: [
+              { src: '../assets/hls/S01E04.m3u8', type: 'application/x-mpegURL' }
+            ],
+            textTracks: [
+              {
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s1/S01E04.en.vtt',
+                default: true
+              }
+            ],
+            thumbnail: [{ src: '../assets/thumb/S01E04-low.jpg' }],
+            poster: '../assets/thumb/S01E04.jpg'
+          },
+          {
+            name: '5 - I Am Iron Man',
+            duration: 3160,
+            sources: [
+              { src: '../assets/hls/S01E05.m3u8', type: 'application/x-mpegURL' }
+            ],
+            textTracks: [
+              {
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s1/S01E05.en.vtt',
+                default: true
+              }
+            ],
+            thumbnail: [{ src: '../assets/thumb/S01E05-low.jpg' }],
+            poster: '../assets/thumb/S01E05.jpg'
           }]);
 
           player.playlistUi({ horizontal: true });
