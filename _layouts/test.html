@@ -52,7 +52,6 @@
 
           player.playlist([{
             name: '1 - Recruitment',
-            description: 'Test desc',
             duration: 4504,
             sources: [
               { src: '../assets/hls/s1/S01E01.m3u8', type: 'application/x-mpegURL' }
@@ -65,29 +64,11 @@
                 default: true
               }
             ],
-            thumbnail: [
-              {
-                srcset: '../assets/thumb/S01E01.jpg',
-                type: 'image/jpeg',
-                media: '{min-width: 400px;}'
-              },
-              {
-                src: '../assets/thumb/S01E01-low.jpg'
-              }
-            ]
+            thumbnail: [{ src: '../assets/thumb/S01E01-low.jpg' }],
+            poster: [{ src: '../assets/thumb/S01E01.jpg' }]
           },
           {
             name: '2 - Where Did He Come From?',
-            description: 'Explore the depths of our planet\'s oceans. ' +
-              'Experience the stories that connect their world to ours. ' +
-              'Lorem ipsum dolor sit amet, consectetur adipiscing elit, ' +
-              'sed do eiusmod tempor incididunt ut labore et dolore magna ' +
-              'aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco ' +
-              'laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure ' +
-              'dolor in reprehenderit in voluptate velit esse cillum dolore eu ' +
-              'fugiat nulla pariatur. Excepteur sint occaecat cupidatat non ' +
-              'proident, sunt in culpa qui officia deserunt mollit anim id est ' +
-              'laborum.',
             duration: 3160,
             sources: [
               { src: '../assets/hls/S01E01-x265.m3u8', type: 'application/x-mpegURL' }
@@ -104,7 +85,7 @@
             ]
           }]);
 
-          player.playlistUi({ showDescriptions: true });
+          player.playlistUi({ horizontal: true });
         </script>
         
         <section id="main-content">
