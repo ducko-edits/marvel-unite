@@ -3,11 +3,13 @@
 
 @import "{{ site.theme }}";
 
-iframe {
-  display:block;
-  width:100%;
-  aspect-ratio: 1.25;
-  background-color: black;
+.vjs-playlist-thumbnail {
+  border: 2px solid dimgrey;
+  border-radius: 3px;
+}
+
+.vjs-playlist-now-playing {
+  border-color: white;
 }
 
 .image-with-text-right {
