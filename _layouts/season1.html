@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
 
+    <link href="https://vjs.zencdn.net/8.3.0/video-js.min.css" rel="stylesheet">
+    <link href=" https://cdn.jsdelivr.net/npm/videojs-playlist-ui@5.0.0/dist/videojs-playlist-ui.min.css " rel="stylesheet">
+
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -26,9 +29,200 @@
       </div>
     </header>
 
-    <div id="content-wrapper">
+   <div id="content-wrapper">
       <div class="inner clearfix">
-        <b>Streaming is currently down while I search for a new host.</b> Currently, the edit is only available via torrent in the download section.
+        <div id="main-player-container">
+          <video
+            id="video"
+            class="video-js vjs-fluid"
+            controls
+            data-setup={}
+            preload="metadata">
+          </video>
+          
+          <div class="vjs-playlist"></div>
+        </div>
+
+        <script src="https://vjs.zencdn.net/8.3.0/video.min.js"></script>
+        <script src=" https://cdn.jsdelivr.net/npm/videojs-playlist@5.1.0/dist/videojs-playlist.min.js "></script>
+        <script src=" https://cdn.jsdelivr.net/npm/videojs-playlist-ui@5.0.0/dist/videojs-playlist-ui.min.js "></script>
+        
+        <script>
+          var player = videojs('video');
+
+          player.playlist([{
+            name: '1 - Recruitment',
+            duration: 4504,
+            sources: [
+              { src: '../assets/hls/s1/S01E01.m3u8', type: 'application/x-mpegURL' }
+            ],
+            textTracks: [
+              {
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s1/S01E01.en.vtt',
+                default: true
+              }
+            ],
+            thumbnail: [{ src: '../assets/thumb/S01E01-low.jpg' }],
+            poster: '../assets/thumb/S01E01.jpg'
+          },
+          {
+            name: '2 - Where Did He Come From?',
+            duration: 3160,
+            sources: [
+              { src: '../assets/hls/s1/S01E02.m3u8', type: 'application/x-mpegURL' }
+            ],
+            textTracks: [
+              {
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s1/S01E02.en.vtt',
+                default: true
+              }
+            ],
+            thumbnail: [{ src: '../assets/thumb/S01E02-low.jpg' }],
+            poster: '../assets/thumb/S01E02.jpg'
+          },
+          {
+            name: '3 - A Box of Scraps',
+            duration: 3188,
+            sources: [
+              { src: '../assets/hls/s1/S01E03.m3u8', type: 'application/x-mpegURL' }
+            ],
+            textTracks: [
+              {
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s1/S01E03.en.vtt',
+                default: true
+              }
+            ],
+            thumbnail: [{ src: '../assets/thumb/S01E03-low.jpg' }],
+            poster: '../assets/thumb/S01E03.jpg'
+          },
+          {
+            name: '4 - Unworthy',
+            duration: 3711,
+            sources: [
+              { src: '../assets/hls/s1/S01E04.m3u8', type: 'application/x-mpegURL' }
+            ],
+            textTracks: [
+              {
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s1/S01E04.en.vtt',
+                default: true
+              }
+            ],
+            thumbnail: [{ src: '../assets/thumb/S01E04-low.jpg' }],
+            poster: '../assets/thumb/S01E04.jpg'
+          },
+          {
+            name: '5 - I Am Iron Man',
+            duration: 2871,
+            sources: [
+              { src: '../assets/hls/s1/S01E05.m3u8', type: 'application/x-mpegURL' }
+            ],
+            textTracks: [
+              {
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s1/S01E05.en.vtt',
+                default: true
+              }
+            ],
+            thumbnail: [{ src: '../assets/thumb/S01E05-low.jpg' }],
+            poster: '../assets/thumb/S01E05.jpg'
+          },
+          {
+            name: '6 - Whiplash',
+            duration: 3441,
+            sources: [
+              { src: '../assets/hls/s1/S01E06.m3u8', type: 'application/x-mpegURL' }
+            ],
+            textTracks: [
+              {
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s1/S01E06.en.vtt',
+                default: true
+              }
+            ],
+            thumbnail: [{ src: '../assets/thumb/S01E06-low.jpg' }],
+            poster: '../assets/thumb/S01E06.jpg'
+          },
+          {
+            name: '7 - Legacy',
+            duration: 3495,
+            sources: [
+              { src: '../assets/hls/s1/S01E07.m3u8', type: 'application/x-mpegURL' }
+            ],
+            textTracks: [
+              {
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s1/S01E07.en.vtt',
+                default: true
+              }
+            ],
+            thumbnail: [{ src: '../assets/thumb/S01E07-low.jpg' }],
+            poster: '../assets/thumb/S01E07.jpg'
+          },
+          {
+            name: '8 - Brothers in Arms',
+            duration: 3053,
+            sources: [
+              { src: '../assets/hls/s1/S01E08.m3u8', type: 'application/x-mpegURL' }
+            ],
+            textTracks: [
+              {
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s1/S01E08.en.vtt',
+                default: true
+              }
+            ],
+            thumbnail: [{ src: '../assets/thumb/S01E08-low.jpg' }],
+            poster: '../assets/thumb/S01E08.jpg'
+          },
+          {
+            name: '9 - From Both Sides',
+            duration: 3060,
+            sources: [
+              { src: '../assets/hls/s1/S01E09.m3u8', type: 'application/x-mpegURL' }
+            ],
+            textTracks: [
+              {
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s1/S01E09.en.vtt',
+                default: true
+              }
+            ],
+            thumbnail: [{ src: '../assets/thumb/S01E09-low.jpg' }],
+            poster: '../assets/thumb/S01E09.jpg'
+          },
+          {
+            name: '10 - Unworthy',
+            duration: 5131,
+            sources: [
+              { src: '../assets/hls/s1/S01E10.m3u8', type: 'application/x-mpegURL' }
+            ],
+            textTracks: [
+              {
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s1/S01E10.en.vtt',
+                default: true
+              }
+            ],
+            thumbnail: [{ src: '../assets/thumb/S01E10-low.jpg' }],
+            poster: '../assets/thumb/S01E10.jpg'
+          }]);
+
+          player.playlistUi({ horizontal: true, playOnSelect: true });
+        </script>
         
         <section id="main-content">
           {{ content }}
