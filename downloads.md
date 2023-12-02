@@ -6,27 +6,11 @@ permalink: /downloads/
 
 # Downloads
 
-Marvel: Unite is available in **five** different formats. Currently, only the lowest quality is available with direct download. Higher qualities are available as torrents.
+Marvel: Unite is available in **five** different formats. Currently, the lowest quality version is only available as direct streaming via the season pages. Higher qualities are available to be downloaded as torrents.
 
 The main thing you need to decide is if you want **1080p** or **2160p** resolution, and which **video codec** you want (**x265** is better, but many devices only support **x264**).
 
 * * *
-
-### 1080p 2.5Mbps x264 (AVC)
-
-> _Lowest quality. Created primarily for archive.org streaming._
-> 
-> | _Resolution_ | _Codec_ | _Bitrate_ | _Audio_ |
-> | :---: | :---: | :---: | :---: |
-> | 1920 x 1080 | x264 MP4 | 2.5 Mbps | 2.0 AAC |
->
-> <br />
->
-> | _Season_ | _Link_ | _File Size_ |
-> | :---: | :---: | :---: |
-> | Season 1 | **Currently unavailable** | 10.9 GB |
-
-<br />
 
 ### 1080p 6Mbps x265 (HEVC)
 
