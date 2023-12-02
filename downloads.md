@@ -56,7 +56,7 @@ The main thing you need to decide is if you want **1080p** or **2160p** resoluti
 >
 > | _Season_ | _Link_ | _File Size_ |
 > | :---: | :---: | :---: |
-> | Season 1 | » [**Magnet Link**](magnet:?xt=urn:btih:4e4b32d2c045290e8c2041a1c0823bdb078033cb&dn=Marvel%20Unite%20(2023)%20Season%201%20S01%20(1080p%208Mbps%20x264%20AC3%205.1%20ducko)&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2fbt2.archive.org%3a6969%2fannounce) « | 36.0 GB |
+> | Season 1 | » [**Magnet Link**](magnet:?xt=urn:btih:66d1ae6ed388dd4a132b70f897e96bed1f92915f&dn=Marvel%20Unite%20%282023%29%20Season%201%20S01%20%281080p%208Mbps%20x264%20AC3%205.1%20ducko%29&tr=udp%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce) « | 36.2 GB |
 
 <br />
 
