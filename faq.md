@@ -28,8 +28,8 @@ permalink: /faq/
   <tr>
     <td style="white-space:nowrap;"><i>Season 3</i></td>
     <td>Captain America: Civil War</td>
-    <td>Guardians of the Galaxy</td>
     <td>Ant-Man</td>
+    <td>Guardians of the Galaxy</td>
     <td>Doctor Strange</td>
     <td></td>
   </tr>
