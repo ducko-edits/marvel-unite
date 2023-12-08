@@ -16,6 +16,25 @@ permalink: /faq/
 | Iron Man 2 | Avengers: Age of Ultron | Doctor Strange | Spider-Man: Homecoming | Avengers: Endgame |
 | The Avengers | | | Black Widow | |
 
+<table>
+  <tr>
+    <th style="white-space:nowrap;"><i>Season 1</i></th>
+    <td>Iron Man</td>
+    <td>Captain America: The First Avenger</td>
+    <td>Thor</td>
+    <td>Iron Man 2</td>
+    <td>The Avengers</td>
+  </tr>
+  <tr>
+    <th style="white-space:nowrap;"><i>Season 2</i></th>
+    <td>Captain America: The Winter Soldier</td>
+    <td>Iron Man 3</td>
+    <td>Thor: The Dark World</td>
+    <td>Avengers: Age of Ultron</td>
+    <td></td>
+  </tr>
+</table>
+
 ### How do I download these to my computer?
 
 > Downloads are available via torrent. Torrenting allows for high-speed secure downloads, which will never be taken down as long as the community continues [seeding](https://help.bittorrent.com/en/support/solutions/articles/29000023347-what-is-seeding-).
