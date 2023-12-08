@@ -8,17 +8,9 @@ permalink: /faq/
 
 ## Series Outline
 
-| _Season 1_ | _Season 2_ <br /> _(coming soon)_ | _Season 3_ <br /> _(coming soon)_ | _Season 4_ <br /> _(coming soon)_ | _Season 5_ <br /> _(coming soon)_ |
-| :---: | :---: | :---: | :---: | :---: |
-| Iron Man | Captain America: The Winter Soldier | Guardians of the Galaxy | Thor: Ragnarok | Avengers: Infinity War |
-| Captain America: The First Avenger | Iron Man 3 | Captain America: Civil War | Black Panther | Ant-Man and the Wasp |
-| Thor | Thor: The Dark World | Ant-Man | Guardians of the Galaxy Vol. 2 | Captain Marvel |
-| Iron Man 2 | Avengers: Age of Ultron | Doctor Strange | Spider-Man: Homecoming | Avengers: Endgame |
-| The Avengers | | | Black Widow | |
-
 <table>
   <tr>
-    <th style="white-space:nowrap;"><i>Season 1</i></th>
+    <td style="white-space:nowrap;"><i>Season 1</i></th>
     <td>Iron Man</td>
     <td>Captain America: The First Avenger</td>
     <td>Thor</td>
@@ -26,11 +18,35 @@ permalink: /faq/
     <td>The Avengers</td>
   </tr>
   <tr>
-    <th style="white-space:nowrap;"><i>Season 2</i></th>
+    <td style="white-space:nowrap;"><i>Season 2</i></th>
     <td>Captain America: The Winter Soldier</td>
     <td>Iron Man 3</td>
     <td>Thor: The Dark World</td>
     <td>Avengers: Age of Ultron</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="white-space:nowrap;"><i>Season 3</i></th>
+    <td>Captain America: Civil War</td>
+    <td>Guardians of the Galaxy</td>
+    <td>Ant-Man</td>
+    <td>Doctor Strange</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="white-space:nowrap;"><i>Season 4</i></th>
+    <td>Thor: Ragnarok</td>
+    <td>Black Panther</td>
+    <td>Guardians of the Galaxy Vol. 2</td>
+    <td>Spider-Man: Homecoming</td>
+    <td>Black Widow</td>
+  </tr>
+  <tr>
+    <td style="white-space:nowrap;"><i>Season 5</i></th>
+    <td>Avengers: Infinity War</td>
+    <td>Ant-Man and the Wasp</td>
+    <td>Captain Marvel</td>
+    <td>Avengers: Endgame</td>
     <td></td>
   </tr>
 </table>
