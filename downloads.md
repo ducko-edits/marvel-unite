@@ -24,7 +24,7 @@ If you download one of the x265/HEVC formats, **make sure your device supports p
 >
 > | _Season_ | _Link_ | _File Size_ |
 > | :---: | :---: | :---: |
-> | Season 1 | » [**Magnet Link**](magnet:?xt=urn:btih:84464abfd394ae693462375fb300539fa440dddb&dn=Marvel%20Unite%20%282023%29%20Season%201%20S01%20%281080p%208Mbps%20x264%20AC3%205.1%20ducko%29&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce) « | 36.3 GB |
+> | Season 1 | » [**Magnet Link**](magnet:?xt=urn:btih:254774c01d559ca07ea05498ee7b6955c3e7f91a&dn=Marvel%20Unite%20%282023%29%20Season%201%20S01%20%281080p%208Mbps%20x264%20AC3%205.1%20ducko%29&tr=udp%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce) « | 36.4 GB |
 > | Season 2 | _Coming Soon_ |
 
 <br />
