@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
+
+    <link href="https://vjs.zencdn.net/8.3.0/video-js.min.css" rel="stylesheet">
+    <link href=" https://cdn.jsdelivr.net/npm/videojs-playlist-ui@5.0.0/dist/videojs-playlist-ui.min.css " rel="stylesheet">
+
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+
+{% seo %}
+
+    {% include head-custom.html %}
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+        <a href="{{ '/' | absolute_url }}">
+          <h1>MARVEL: UNITE</h1>
+        </a>
+        <h2>An unofficial MCU fan edit by ducko.</h2>
+      </div>
+    </header>
+
+   <div id="content-wrapper">
+      <div class="inner clearfix">
+        <div id="main-player-container">
+          <video
+            id="video"
+            class="video-js vjs-fluid"
+            controls
+            data-setup={}
+            preload="metadata">
+          </video>
+          
+          <div class="vjs-playlist"></div>
+        </div>
+
+        <script src="https://vjs.zencdn.net/8.3.0/video.min.js"></script>
+        <script src=" https://cdn.jsdelivr.net/npm/videojs-playlist@5.1.0/dist/videojs-playlist.min.js "></script>
+        <script src=" https://cdn.jsdelivr.net/npm/videojs-playlist-ui@5.0.0/dist/videojs-playlist-ui.min.js "></script>
+        
+        <script>
+          var player = videojs('video');
+
+          player.playlist([{
+            name: '1 - Take My Hand',
+            duration: 3300,
+            sources: [
+              { src: '../assets/hls/s3/S03E01.m3u8', type: 'application/x-mpegURL' }
+            ],
+            textTracks: [
+              {
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s3/S03E01.en.vtt',
+                default: true
+              }
+            ],
+            thumbnail: [{ src: '../assets/thumb/S03E01-low.jpg' }],
+            poster: '../assets/thumb/S03E01.jpg'
+          },
+          {
+            name: '2 - Locked Up',
+            duration: 3320,
+            sources: [
+              { src: '../assets/hls/s3/S03E02.m3u8', type: 'application/x-mpegURL' }
+            ],
+            textTracks: [
+              {
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s3/S03E02.en.vtt',
+                default: true
+              }
+            ],
+            thumbnail: [{ src: '../assets/thumb/S03E02-low.jpg' }],
+            poster: '../assets/thumb/S03E02.jpg'
+          },
+          {
+            name: '3 - Strange',
+            duration: 4021,
+            sources: [
+              { src: '../assets/hls/s3/S03E03.m3u8', type: 'application/x-mpegURL' }
+            ],
+            textTracks: [
+              {
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s3/S03E03.en.vtt',
+                default: true
+              }
+            ],
+            thumbnail: [{ src: '../assets/thumb/S03E03-low.jpg' }],
+            poster: '../assets/thumb/S03E03.jpg'
+          },
+          {
+            name: '4 - Surrender',
+            duration: 2642,
+            sources: [
+              { src: '../assets/hls/s3/S03E04.m3u8', type: 'application/x-mpegURL' }
+            ],
+            textTracks: [
+              {
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s3/S03E04.en.vtt',
+                default: true
+              }
+            ],
+            thumbnail: [{ src: '../assets/thumb/S03E04-low.jpg' }],
+            poster: '../assets/thumb/S03E04.jpg'
+          },
+          {
+            name: '5 - I Know a Guy',
+            duration: 3392,
+            sources: [
+              { src: '../assets/hls/s3/S03E05.m3u8', type: 'application/x-mpegURL' }
+            ],
+            textTracks: [
+              {
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s3/S03E05.en.vtt',
+                default: true
+              }
+            ],
+            thumbnail: [{ src: '../assets/thumb/S03E05-low.jpg' }],
+            poster: '../assets/thumb/S03E05.jpg'
+          },
+          {
+            name: '6 - All Shapes and Sizes',
+            duration: 3365,
+            sources: [
+              { src: '../assets/hls/s3/S03E06.m3u8', type: 'application/x-mpegURL' }
+            ],
+            textTracks: [
+              {
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s3/S03E06.en.vtt',
+                default: true
+              }
+            ],
+            thumbnail: [{ src: '../assets/thumb/S03E06-low.jpg' }],
+            poster: '../assets/thumb/S03E06.jpg'
+          },
+          {
+            name: '7 - Clash of the Avengers',
+            duration: 3510,
+            sources: [
+              { src: '../assets/hls/s3/S03E07.m3u8', type: 'application/x-mpegURL' }
+            ],
+            textTracks: [
+              {
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s3/S03E07.en.vtt',
+                default: true
+              }
+            ],
+            thumbnail: [{ src: '../assets/thumb/S03E07-low.jpg' }],
+            poster: '../assets/thumb/S03E07.jpg'
+          },
+          {
+            name: '8 - Guardians',
+            duration: 3934,
+            sources: [
+              { src: '../assets/hls/s3/S03E08.m3u8', type: 'application/x-mpegURL' }
+            ],
+            textTracks: [
+              {
+                kind: 'subtitles',
+                label: 'English',
+                src: '../assets/vtt/s3/S03E08.en.vtt',
+                default: true
+              }
+            ],
+            thumbnail: [{ src: '../assets/thumb/S03E08-low.jpg' }],
+            poster: '../assets/thumb/S03E08.jpg'
+          }]);
+
+          player.playlistUi({ horizontal: true, playOnSelect: true });
+        </script>
+
+        <br />
+        
+        <section id="main-content">
+          {{ content }}
+        </section>
+
+        <aside id="sidebar">
+          <a href="/marvel-unite/"><h2>About</h2></a>
+          <a href="/marvel-unite/faq/"><h2>FAQ/Contact</h2></a>
+          <a href="/marvel-unite/downloads/"><h2>Downloads</h2></a>
+          <hr>
+          <h3>Watch Online</h2>
+          <a href="/marvel-unite/season-1/"><h2>Season 1</h2></a>
+          <a href="/marvel-unite/season-2/"><h2>Season 2</h2></a>
+          <a href="/marvel-unite/season-3/"><h2>Season 3</h2></a>
+		  <h2>Season 4 <i>(coming soon)</i></h2>
+        </aside>
+      </div>
+    </div>
+  </body>
+</html>

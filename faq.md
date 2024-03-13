@@ -53,9 +53,9 @@ permalink: /faq/
 
 ### How do I download these to my computer?
 
-> Downloads are available via torrent. Torrenting allows for high-speed secure downloads, which will never be taken down as long as the community continues [seeding](https://help.bittorrent.com/en/support/solutions/articles/29000023347-what-is-seeding-).
+> The lowest bitrate versions are available on the [downloads](/downloads/) page directly from Google Drive and Mega. Higher quality downloads are available via torrent. Torrenting allows for high-speed secure downloads, which will never be taken down as long as the community continues [seeding](https://help.bittorrent.com/en/support/solutions/articles/29000023347-what-is-seeding-).
 >
-> Simply copy and paste the magnet link from the [downloads](/downloads/) page into a Bittorrent program like [qBittorrent](https://www.qbittorrent.org/). After the download is finished, leave the program running so other users can download the files from you.
+> Simply copy and paste the magnet link into a Bittorrent program like [qBittorrent](https://www.qbittorrent.org/). After the download is finished, leave the program running so other users can download the files from you.
 
 ### Why wasn't The Incredible Hulk (2008) included?
 
