@@ -14,7 +14,7 @@ If you download one of the x265/HEVC formats, **make sure your device supports p
 
 ### 1080p x264 (AVC) -- Low Quality
 
-> _Lowest quality, smallest file size.__
+> _Lowest quality, smallest file size._
 > 
 > | _Resolution_ | _Color_ | _Codec_ | _Bitrate_ | _Audio_ |
 > | :---: | :---: | :---: | :---: | :---: |
@@ -32,7 +32,7 @@ If you download one of the x265/HEVC formats, **make sure your device supports p
 
 ### 1080p x264 (AVC) -- High Quality
 
->  _Good quality. Less quality and bigger filesize than the HEVC 1080p version, but this version should be compatible with virtually anything._
+> _Good quality. Less quality and bigger filesize than the HEVC 1080p version, but this version should be compatible with virtually anything._
 >
 > | _Resolution_ | _Color_ | _Codec_ | _Bitrate_ | _Audio_ |
 > | :---: | :---: | :---: | :---: | :---: |
