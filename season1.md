@@ -23,6 +23,9 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
  - Iron Man 2 (2010)<br />
  - The Avengers (2012)
 </p>
+
+Full cutlist available [here](/cutlist/season-1/).
+
 <p style="clear: both;"></p>
 
 * * *

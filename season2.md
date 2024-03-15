@@ -22,6 +22,9 @@ Following the Avengers' Battle of New York, Steve Rogers tackles a secret evil r
  - Thor: The Dark World (2013)<br />
  - Avengers: Age of Ultron (2015)
 </p>
+
+Full cutlist available [here](/cutlist/season-2/).
+
 <p style="clear: both;"></p>
 
 * * *

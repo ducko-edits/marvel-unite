@@ -22,6 +22,9 @@ After the destruction in Sokovia, the United Nations want to place the Avengers 
  - Ant-Man (2015)<br />
  - Doctor Strange (2016)
 </p>
+
+Full cutlist available [here](/cutlist/season-3/).
+
 <p style="clear: both;"></p>
 
 * * *
