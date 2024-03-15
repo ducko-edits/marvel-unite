@@ -24,7 +24,7 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
  - The Avengers (2012)
 </p>
 
-Full cutlist available [here](/cutlist/season-1/).
+Full cutlist available [here](/marvel-unite/cutlist/season-1/).
 
 <p style="clear: both;"></p>
 

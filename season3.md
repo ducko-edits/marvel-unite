@@ -23,7 +23,7 @@ After the destruction in Sokovia, the United Nations want to place the Avengers 
  - Doctor Strange (2016)
 </p>
 
-Full cutlist available [here](/cutlist/season-3/).
+Full cutlist available [here](/marvel-unite/cutlist/season-3/).
 
 <p style="clear: both;"></p>
 

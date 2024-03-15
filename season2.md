@@ -23,7 +23,7 @@ Following the Avengers' Battle of New York, Steve Rogers tackles a secret evil r
  - Avengers: Age of Ultron (2015)
 </p>
 
-Full cutlist available [here](/cutlist/season-2/).
+Full cutlist available [here](/marvel-unite/cutlist/season-2/).
 
 <p style="clear: both;"></p>
 
