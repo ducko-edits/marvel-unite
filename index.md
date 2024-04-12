@@ -38,7 +38,6 @@ The low bitrate version of Marvel: Unite can be streamed in your browser (thanks
 * My wife <3
 
 ###### IFDB
-* ArtisDead
 * INIGHTMARES
 * NOTFLIX
 * lantern51
