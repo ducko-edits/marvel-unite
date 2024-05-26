@@ -35,11 +35,11 @@ permalink: /faq/
   </tr>
   <tr>
     <td style="white-space:nowrap;"><i>Season 4</i></td>
-    <td>Thor: Ragnarok</td>
-    <td>Black Panther</td>
-    <td>Guardians of the Galaxy Vol. 2</td>
     <td>Spider-Man: Homecoming</td>
+    <td>Black Panther</td>
     <td>Black Widow</td>
+    <td>Guardians of the Galaxy Vol. 2</td>
+    <td>Thor: Ragnarok</td>
   </tr>
   <tr>
     <td style="white-space:nowrap;"><i>Season 5</i></td>

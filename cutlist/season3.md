@@ -6,7 +6,7 @@ permalink: /cutlist/season-3/
 
 # Season 3 Cutlist
 
-## Overall changes
+## Overall Changes
 - 4 movies are cut into 8 hour-long episodes.
 - All original title cards and credits are removed.
 - Each episode begins with a "ducko" logo, a cold open sequence, and the Phase 2 Marvel Studios logo as an intro.
