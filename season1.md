@@ -1,8 +1,11 @@
 ---
-layout: season1
+layout: default
 title: Season 1
 permalink: /season-1/
 ---
+
+## Update in progress!
+### Check back soon for the Season 1 Redux
 
 <div class="image-with-text-left" style="padding: 0px 30px 0px 0px">
  <img src="../assets/images/seasonOne_450px.jpg" />
