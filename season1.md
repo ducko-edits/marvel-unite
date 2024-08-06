@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: season1
 title: Season 1
 permalink: /season-1/
 ---
-
-## Update in progress!
-### Check back soon for the Season 1 Redux
 
 <div class="image-with-text-left" style="padding: 0px 30px 0px 0px">
  <img src="../assets/images/seasonOne_450px.jpg" />
@@ -29,6 +26,8 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 
 Full cutlist available [here](/marvel-unite/cutlist/season-1/).
 
+_Last updated: 8/5/2024 (Redux)_
+
 <p style="clear: both;"></p>
 
 * * *
@@ -39,12 +38,12 @@ Full cutlist available [here](/marvel-unite/cutlist/season-1/).
 | --- | :--- | :--- |
 | 1 | Recruitment | Playboy billionaire Tony Stark has his world turned upside down when he is kidnapped by terrorists. Meanwhile, in 1943, Steve Rogers volunteers to participate in an experimental program for the U.S. Army. |
 | 2 | Where Did He Come From? | A group of scientists investigating in New Mexico find a man claiming to be the Norse god of thunder. Tony Stark looks to improve his iron suit. In the 1940s, Steve Rogers has an encounter with a mysterious organization called HYDRA. |
-| 3 | A Box of Scraps | When he discovers dissent within his company, Tony gives his new suit a test drive. Thor sets out to retrieve his hammer. In the 1940s, Steve feels that his newfound strength isn't being put to good use. |
-| 4 | Unworthy | Tony battles for his company and his life. In a flashback, the backstory of Thor and his expulsion from Asgard is revealed. In the 1940s, Steve tries to rescue a group of soldiers captured by HYDRA. |
-| 5 | I Am Iron Man | Tony Stark faces political backlash for the unchecked power of his Iron Man suit. Thor is captured by SHIELD and encounters his brother Loki. In the 1940s, Howard Stark develops a prototype shield for Steve. |
-| 6 | Whiplash | After jetting off to Monaco for the Grand Prix, Tony encounters a new foe instead. Thor battles an otherworldly threat to protect his new friends. In the 1940s, Steve prepares to infiltrate HYDRA headquarters. |
-| 7 | Legacy | Tony's hope is restored when he discovers clues left behind by his father. In the 1940s, Captain America takes on HYDRA. |
-| 8 | Brothers in Arms | Iron Man and Thor face off against their most powerful enemies yet. |
+| 3 | Unworthy | When he discovers dissent within his company, Tony Stark gives his new suit a test drive. Thor sets out to retrieve his hammer, but instead discovers the consequences of his past in Asgard. |
+| 4 | Star-Spangled Man | Tony Stark battles for his company and his life. In the 1940s, Steve Rogers grows frustrated that his newfound strength isn't being put to good use. |
+| 5 | From Ashes | Tony Stark faces political backlash for the unchecked power of his Iron Man suit. On Asgard, Loki assumes the throne, while Thor grows closer to his companions on Earth. In the 1940s, Steve recruits a team to take on HYDRA. |
+| 6 | Whiplash | After jetting off to Monaco for the Grand Prix, Tony Stark encounters a new foe instead. Thor battles an otherworldly threat to protect his new friends. |
+| 7 | Legacy | Tony Stark's hope is restored when he discovers clues left behind by his father. In the 1940s, Steve Rogers takes on HYDRA. |
+| 8 | Brothers in Arms | Tony Stark faces off against Ivan Vanko, while Thor tries to stop his brother from destroying Jotunheim. |
 | 9 | From Both Sides | Chaos ensues as Loki makes his way to Earth, and the Avengers initiative officially comes together. |
 | 10 | Battle of New York | The Avengers fight against Loki in this show-stopping season finale. |
 
