@@ -1,13 +1,8 @@
 ---
-layout: default
+layout: season1
 title: Season 1
 permalink: /season-1/
 ---
-
-##Update in progress
-Fixing a minor issue, check back in a few hours
-
-* * *
 
 <div class="image-with-text-left" style="padding: 0px 30px 0px 0px">
  <img src="../assets/images/seasonOne_450px.jpg" />
@@ -31,7 +26,7 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 
 Full cutlist available [here](/marvel-unite/cutlist/season-1/).
 
-_Last updated: 8/5/2024 (Redux)_
+_Last updated: 8/8/2024_
 
 <p style="clear: both;"></p>
 
@@ -52,3 +47,9 @@ _Last updated: 8/5/2024 (Redux)_
 | 9 | From Both Sides | Chaos ensues as Loki makes his way to Earth, and the Avengers initiative officially comes together. |
 | 10 | Battle of New York | The Avengers fight against Loki in this show-stopping season finale. |
 
+* * *
+
+##Changelog
+
+8/8/2024 - Fixed hanging frame in S01E01, only affects 1080p versions. Probably not worth re-downloading if you already have the previous Redux version.
+8/5/2024 - Redux release
