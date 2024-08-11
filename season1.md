@@ -26,7 +26,7 @@ Explore the backstories of Iron Man, Captain America, and Thor as they grow towa
 
 Full cutlist available [here](/marvel-unite/cutlist/season-1/).
 
-_Last updated: 8/8/2024_
+_Last updated: 8/11/2024_
 
 <p style="clear: both;"></p>
 
@@ -49,7 +49,10 @@ _Last updated: 8/8/2024_
 
 * * *
 
-##Changelog
+## Changelog
+
+8/11/2024 - Fixed corrupted zip file in direct download versions.
 
 8/8/2024 - Fixed hanging frame in S01E01, only affects 1080p versions. Probably not worth re-downloading if you already have the previous Redux version.
+
 8/5/2024 - Redux release

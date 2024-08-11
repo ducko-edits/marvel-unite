@@ -24,7 +24,7 @@ If you download one of the x265/HEVC formats, **make sure your device supports p
 >
 > | _Season_ | _Link_ | _File Size_ |
 > | :---: | :---: | :---: |
-> | Season 1 | » [**Google Drive**](https://drive.google.com/file/d/1HXqcJrA-_aF20qN3Uxg2EO8_g-v1hF4h/view) « <br /> » [**Mega**](https://mega.nz/file/9ekDzQjB#mFN1LOnlIfwckbNt9KElewHtRGp1uiZNC6fDKrUBu3s) « <br /> » [**Magnet Link**](magnet:?xt=urn:btih:503109258d84c2a634dc16e49ce7e96d3156999f&dn=Marvel%20Unite%20%282023%29%20Season%201%20S01%20Redux%20%281080p%202.5Mbps%20x264%20AAC%205.1%20ducko%29&tr=udp%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce) « | 12.0 GB  |
+> | Season 1 | » [**Google Drive**](https://drive.google.com/file/d/1JZhIRCz22gzPo1jdELU7t87q1DE276ed/view?usp=drive_link) « <br /> » [**Mega**](https://mega.nz/file/Zf9xHTJS#JMcnqG7n2xm3rjqnTye8uIdy-ZVqssVUfUFeK3Frm4w) « <br /> » [**Magnet Link**](magnet:?xt=urn:btih:503109258d84c2a634dc16e49ce7e96d3156999f&dn=Marvel%20Unite%20%282023%29%20Season%201%20S01%20Redux%20%281080p%202.5Mbps%20x264%20AAC%205.1%20ducko%29&tr=udp%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce) « | 12.0 GB  |
 > | Season 2 | » [**Google Drive**](https://drive.google.com/file/d/1nwspeSyBtvnDZWHfbpiid1IQ-8nqpyey/view) « <br /> » [**Mega**](https://mega.nz/file/ISNwTJ7C#o1u_9jPZVuiTWaubSSX1jQeQ_3bTEV310TUQB74LocY) « <br /> » [**Magnet Link**](magnet:?xt=urn:btih:c62b2ebbc5e3e63792e35807e59563e20543cde7&dn=Marvel%20Unite%20%282023%29%20Season%202%20S02%20%281080p%202.5Mbps%20x264%20AAC%205.1%20ducko%29&tr=udp%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce) « | 9.8 GB |
 > | Season 3 | » [**Google Drive**](https://drive.google.com/file/d/1sESR5U7pUSu8eWnHnJtZmyejcVymS8Dv/view) « <br /> » [**Mega**](https://mega.nz/file/0HcHjAjZ#465xDxDBZ24cQneYxy9phiOEQwRytFq50JH75u84ijE) « <br /> » [**Magnet Link**](magnet:?xt=urn:btih:932cfd51bde0c36b9c6360871bd5d1351037bbc4&dn=Marvel%20Unite%20%282023%29%20Season%203%20S03%20%281080p%202.5Mbps%20x264%20AAC%205.1%20ducko%29&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce) « | 9.6 GB |
 > | Season 4 | » [**Google Drive**](https://drive.google.com/file/d/1rhsN8-mizvYX1xzka4jfbIXNJXEjuoJe/view) « <br /> » [**Mega**](https://mega.nz/file/0UJx3I6T#LYjCsDu2JyjD_q-eOy-hxYVxdyNlfIseKr-gLsQfX2U) « <br /> » [**Magnet Link**](magnet:?xt=urn:btih:656bbe14dd4e8ed2879117714e5bda7b69687c0c&dn=Marvel%20Unite%20%282023%29%20Season%204%20S04%20%281080p%202.5Mbps%20x264%20AAC%205.1%20ducko%29&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce) « | 12.7 GB |
@@ -56,13 +56,13 @@ If you download one of the x265/HEVC formats, **make sure your device supports p
 > 
 > | _Resolution_ | _Color_ | _Codec_ | _Bitrate_ | _Audio_ |
 > | :---: | :---: | :---: | :---: | :---: |
-> | 1920 x 1080 | SDR | x265 MKV | ~6 Mbps | 5.1 AAC |
+> | 1920 x 1080 | SDR | x265 MKV | ~6 Mbps (crf 16) | 5.1 AAC |
 >
 > <br />
 >
 > | _Season_ | _Link_ | _File Size_ |
 > | :---: | :---: | :---: |
-> | Season 1 | _Update uploading, check back in a few hours_ | 27.9 GB |
+> | Season 1 | » [**Magnet Link**](magnet:?xt=urn:btih:2a4dc42917e7be43276fb0a7f65099c4d9666061&dn=Marvel%20Unite%20%282023%29%20Season%201%20S01%20Redux%20%281080p%20x265%20HEVC%20AAC%205.1%20ducko%29&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce) | 27.9 GB |
 > | Season 2 | » [**Magnet Link**](magnet:?xt=urn:btih:fbc42868005e58fa28d972ce730cd7b5da7f7f24&dn=Marvel%20Unite%20%282023%29%20Season%202%20S02%20%281080p%20x265%20HEVC%20AAC%205.1%20ducko%29&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce) « | 18.3 GB |
 > | Season 3 | » [**Magnet Link**](magnet:?xt=urn:btih:e5386babf6d3acdd0a4fd0e1825c0df0fcc6f787&dn=Marvel%20Unite%20%282023%29%20Season%203%20S03%20%281080p%206Mbps%20x265%20HEVC%20AAC%205.1%20ducko%29&tr=udp%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce) « | 19.9 GB |
 > | Season 4 | » [**Magnet Link**](magnet:?xt=urn:btih:6b70c493955eb9f2d0b2429f141249879852c4cd&dn=Marvel%20Unite%20%282023%29%20Season%204%20S04%20%281080p%206Mbps%20x265%20HEVC%20AAC%205.1%20ducko%29&tr=udp%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fbt2.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce) « | 30.1 GB |
