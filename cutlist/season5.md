@@ -51,8 +51,8 @@ permalink: /cutlist/season-5/
 - Sequence of Skrulls arriving on beach and shapeshifting into surfers is removed so that the Skrulls are revealed when the characters meet them
 - Sequence of Carol contacting Yon-Rogg in the phone booth is heavily altered to keep the narrative focused on Nick Fury's perspective. Yon-Rogg is no longer shown and Carol is unable to reach him.
 - "Only Happy When It Rains" changed to "Tom's Diner" by Suzanne Vega, along with new motorcycle sound effects, as Carol arrives at the diner
-- After Nick Fury asks Carol to "prove [she's] not a Skrull," cuts to Carol back on Halla
-- Deleted scene with Carol and Yon-Rogg teaching children on Halla is added back in, with finished VFX
+- After Nick Fury asks Carol to "prove [she's] not a Skrull," cuts to Carol back on Hala
+- Deleted scene with Carol and Yon-Rogg teaching children on Hala is added back in, with finished VFX
 - When Yon-Rogg trains with Carol, cut all dialog about Carol having dreams, so that his advice is purely focused on Carol controlling her emotions and not worrying about her past
 - Removed Carol hitting Yon-Rogg with her beam to better establish that she really is holding herself back and so her power feels more "earned" later
 - Carol's flashback as the Skrulls probe her mind is heavily altered to avoid showing too much of her life as an pilot. Talos' dialog is re-ordered to fit the new sequence
