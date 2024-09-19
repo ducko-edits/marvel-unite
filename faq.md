@@ -73,9 +73,7 @@ permalink: /faq/
 
 ### Does this series incorporate the IMAX versions with expanded aspect ratio?
 
-> The first two seasons are almost entirely in regular 2.35:1 scope. The only film with IMAX scenes in the first two seasons is the first Iron Man, but I've decided against including those for consistency and simplicity. However, the episodes covering The Avengers retain its original 1.85:1 aspect ratio.
->
-> Starting in Season 3 and onwards, all of the films have IMAX available, so **this edit will contain IMAX sequences whenever reasonable**. This does result in a lot of changing aspect ratios, but I've worked carefully to make these transitions smooth and organic. I was also delighted to find that the vast majority of IMAX shots actually line up perfectly with the original scope shots. The higher quality Blu-ray sources are actually overlaid on top of the IMAX sources for most shots, ensuring the highest quality source is always used.
+> IMAX sequences are included wherever reasonable. This does result in a lot of changing aspect ratios, but I've worked carefully to make these transitions smooth and organic. I was also delighted to find that the vast majority of IMAX shots actually line up perfectly with the original scope shots. The higher quality Blu-ray sources are actually overlaid on top of the IMAX sources for most shots, ensuring the highest quality source is always used.
 
 ### Will you make Blu-ray ISOs?
 
