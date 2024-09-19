@@ -12,7 +12,7 @@ permalink: /season-5/
 
 # Season Five
 
-The mad titan Thanos embarks on a mission to collect all six Infinity Stones to inflict his twisted will on reality. Scott Lang dons the Ant-Man suit once again, and in 1995, Nick Fury encounters a mysterious alien warrior searching for invasive shape-shifters. The Avengers must come together one final time to take a stand against Thanos in the series' epic conclusion.
+The Mad Titan Thanos embarks on a mission to collect all six Infinity Stones to inflict his twisted will on reality. Scott Lang dons the Ant-Man suit once again, and in 1995, Nick Fury encounters a mysterious alien warrior searching for invasive shape-shifters. The Avengers must come together one final time to take a stand against Thanos in the series' epic conclusion.
 
 ### Featuring
 
